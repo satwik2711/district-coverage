@@ -1,0 +1,661 @@
+﻿zone,entry,status,boundary_district,state,method,candidate_districts,sources
+North 1,AFZALGARH,matched,Bijnor,Uttar Pradesh,Lookup,Bijnor (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 1,ALMORA,matched,Almora,Uttarakhand,Lookup,Almora (Uttarakhand),https://www.geonames.org/1278975/
+North 1,AMROHA,matched,Jyotiba Phule Nagar,Uttar Pradesh,Lookup,Jyotiba Phule Nagar (Uttar Pradesh),https://www.geonames.org/9072783/
+North 1,BABRALA,matched,Sambhal,Uttar Pradesh,Lookup,Sambhal (Uttar Pradesh),https://www.geonames.org/1278052/
+North 1,BAGESHWAR,matched,Bageshwar,Uttarakhand,Lookup,Bageshwar (Uttarakhand),https://www.geonames.org/7701513/
+North 1,BAGHPAT,matched,Baghpat,Uttar Pradesh,Lookup,Baghpat (Uttar Pradesh),https://www.geonames.org/9072781/
+North 1,BARAUT,matched,Baghpat,Uttar Pradesh,Lookup,Baghpat (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 1,BARKOT,matched,Uttarkashi,Uttarakhand,Lookup,Uttarkashi (Uttarakhand),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=34
+North 1,BARLA,needs_review,,,Needs review,Aligarh (Uttar Pradesh) | Gorakhpur (Uttar Pradesh) | Muzaffarnagar (Uttar Pradesh) | Chandauli (Uttar Pradesh),https://www.geonames.org/1276913/ | https://www.geonames.org/10260818/ | https://www.geonames.org/10503443/ | https://www.geonames.org/10661102/
+North 1,BAZPUR,matched,Udham Singh Nagar,Uttarakhand,Lookup,Udham Singh Nagar (Uttarakhand),https://www.geonames.org/1276642/
+North 1,BERINAG,matched,Pithoragarh,Uttarakhand,Lookup,Pithoragarh (Uttarakhand),https://www.geonames.org/12682602/
+North 1,BHOWALI,matched,Nainital,Uttarakhand,Lookup,Nainital (Uttarakhand),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=34
+North 1,BIJNOR,matched,Bijnor,Uttar Pradesh,Lookup,Bijnor (Uttar Pradesh),https://www.geonames.org/1275680/
+North 1,BILARI,matched,Moradabad,Uttar Pradesh,Lookup,Moradabad (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 1,BILASPUR (RAMPUR),matched,Rampur,Uttar Pradesh,Lookup,Rampur (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 1,BUDHANA,matched,Muzaffarnagar,Uttar Pradesh,Lookup,Muzaffarnagar (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 1,CHAMPAWAT,matched,Champawat,Uttarakhand,Lookup,Champawat (Uttarakhand),https://www.geonames.org/7701515/
+North 1,CHANDAUSI,matched,Sambhal,Uttar Pradesh,Lookup,Sambhal (Uttar Pradesh),https://www.geonames.org/12682884/ | https://www.geonames.org/1274767/
+North 1,CHANDPUR,matched,Bijnor,Uttar Pradesh,Lookup,Bijnor (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 1,CHANDRAPURI,matched,Rudraprayag,Uttarakhand,Lookup,Rudraprayag (Uttarakhand),https://www.geonames.org/1274691/
+North 1,CHAUKHUTIA,matched,Almora,Uttarakhand,Lookup,Almora (Uttarakhand),https://udd.uk.gov.in/list-of-ulb/
+North 1,CHHUTMALPUR,matched,Saharanpur,Uttar Pradesh,Lookup,Saharanpur (Uttar Pradesh),https://www.geonames.org/1441210/
+North 1,CHINYALISAUR,matched,Uttarkashi,Uttarakhand,Lookup,Uttarkashi (Uttarakhand),https://www.geonames.org/12682641/
+North 1,DEHRADUN,matched,Dehradun,Uttarakhand,Lookup,Dehradun (Uttarakhand),https://www.geonames.org/9072830/
+North 1,DEOBAND,matched,Saharanpur,Uttar Pradesh,Lookup,Saharanpur (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 1,DHAMPUR,matched,Bijnor,Uttar Pradesh,Lookup,Bijnor (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 1,DIDIHAT,matched,Pithoragarh,Uttarakhand,Lookup,Pithoragarh (Uttarakhand),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=34
+North 1,DOIWALA,matched,Dehradun,Uttarakhand,Lookup,Dehradun (Uttarakhand),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=34
+North 1,GADARPUR,matched,Udham Singh Nagar,Uttarakhand,Lookup,Udham Singh Nagar (Uttarakhand),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=34
+North 1,GAIRSAIN,matched,Chamoli,Uttarakhand,Lookup,Chamoli (Uttarakhand),https://www.geonames.org/12682578/
+North 1,GAJRAULA,matched,Jyotiba Phule Nagar,Uttar Pradesh,Lookup,Jyotiba Phule Nagar (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 1,GANGHO,matched,Saharanpur,Uttar Pradesh,Lookup,Saharanpur (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 1,GANGOLIHAT,matched,Pithoragarh,Uttarakhand,Lookup,Pithoragarh (Uttarakhand),https://www.geonames.org/12682603/
+North 1,GHANSALI,matched,Tehri Garhwal,Uttarakhand,Lookup,Tehri Garhwal (Uttarakhand),https://www.geonames.org/12682582/
+North 1,GOPESHWAR,matched,Chamoli,Uttarakhand,Lookup,Chamoli (Uttarakhand),https://www.geonames.org/1270949/
+North 1,HALDWANI,matched,Nainital,Uttarakhand,Lookup,Nainital (Uttarakhand),https://www.geonames.org/1270498/ | https://www.geonames.org/12682626/
+North 1,HARDWAR,matched,Hardwar,Uttarakhand,Lookup,Hardwar (Uttarakhand),https://www.geonames.org/12682660/ | https://www.geonames.org/1270351/ | https://www.geonames.org/8740057/
+North 1,HASANPUR,matched,Jyotiba Phule Nagar,Uttar Pradesh,Lookup,Jyotiba Phule Nagar (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 1,JASPUR,matched,Udham Singh Nagar,Uttarakhand,Lookup,Udham Singh Nagar (Uttarakhand),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=34
+North 1,KANTH,needs_review,,,Needs review,Moradabad (Uttar Pradesh) | Shahjahanpur (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 1,KARANPRAYAG,matched,Chamoli,Uttarakhand,Lookup,Chamoli (Uttarakhand),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=34
+North 1,KASHIPUR,matched,Udham Singh Nagar,Uttarakhand,Lookup,Udham Singh Nagar (Uttarakhand),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=34
+North 1,KATHGARIYA,matched,Nainital,Uttarakhand,Lookup,Nainital (Uttarakhand),https://dsel.education.gov.in/sites/default/files/2020-08/PAB_UK_2020_21.pdf
+North 1,KHATIMA,matched,Udham Singh Nagar,Uttarakhand,Lookup,Udham Singh Nagar (Uttarakhand),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=34
+North 1,KITHORE,matched,Meerut,Uttar Pradesh,Lookup,Meerut (Uttar Pradesh),https://www.geonames.org/1266461/
+North 1,KOTDWAR,matched,Garhwal,Uttarakhand,Lookup,Garhwal (Uttarakhand),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=34
+North 1,LAKSAR,matched,Hardwar,Uttarakhand,Lookup,Hardwar (Uttarakhand),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=34
+North 1,LALKUA,matched,Nainital,Uttarakhand,Lookup,Nainital (Uttarakhand),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=34
+North 1,LOHAGHAT,matched,Champawat,Uttarakhand,Lookup,Champawat (Uttarakhand),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=34
+North 1,MANDI DHANAURA,matched,Jyotiba Phule Nagar,Uttar Pradesh,Lookup,Jyotiba Phule Nagar (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 1,MAWANA,matched,Meerut,Uttar Pradesh,Lookup,Meerut (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 1,MEERUT,matched,Meerut,Uttar Pradesh,Lookup,Meerut (Uttar Pradesh),https://www.geonames.org/1263215/
+North 1,MILAK,matched,Rampur,Uttar Pradesh,Lookup,Rampur (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 1,MORADABAD,matched,Moradabad,Uttar Pradesh,Lookup,Moradabad (Uttar Pradesh),https://www.geonames.org/1262802/
+North 1,MUSSOORIE,matched,Dehradun,Uttarakhand,Lookup,Dehradun (Uttarakhand),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=34
+North 1,MUZZAFARNAGAR,matched,Muzaffarnagar,Uttar Pradesh,Lookup,Muzaffarnagar (Uttar Pradesh),https://www.geonames.org/1262333/
+North 1,NAGINA,matched,Bijnor,Uttar Pradesh,Lookup,Bijnor (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 1,NAJIBABAD,matched,Bijnor,Uttar Pradesh,Lookup,Bijnor (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 1,NAKUR,matched,Saharanpur,Uttar Pradesh,Lookup,Saharanpur (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 1,NANAKMATTA,matched,Udham Singh Nagar,Uttarakhand,Lookup,Udham Singh Nagar (Uttarakhand),https://www.geonames.org/12682691/
+North 1,NARENDER NAGAR,matched,Tehri Garhwal,Uttarakhand,Lookup,Tehri Garhwal (Uttarakhand),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=34
+North 1,NEW TEHRI,matched,Tehri Garhwal,Uttarakhand,Lookup,Tehri Garhwal (Uttarakhand),https://www.geonames.org/1254808/
+North 1,NOORPUR,matched,Bijnor,Uttar Pradesh,Lookup,Bijnor (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 1,PATI,matched,Champawat,Uttarakhand,Lookup,Champawat (Uttarakhand),https://www.geonames.org/12682619/
+North 1,PAURI GARHWAL,matched,Garhwal,Uttarakhand,Lookup,Garhwal (Uttarakhand),https://www.geonames.org/1271535/
+North 1,PIPALKOTHI,matched,Chamoli,Uttarakhand,Lookup,Chamoli (Uttarakhand),https://www.geonames.org/1259617/
+North 1,PITHORAGARH,matched,Pithoragarh,Uttarakhand,Lookup,Pithoragarh (Uttarakhand),https://www.geonames.org/1259504/
+North 1,POOTH KHAS,matched,Meerut,Uttar Pradesh,Lookup,Meerut (Uttar Pradesh),https://www.geonames.org/1259133/
+North 1,PRATAPNAGAR,matched,Tehri Garhwal,Uttarakhand,Lookup,Tehri Garhwal (Uttarakhand),https://www.geonames.org/12682584/
+North 1,RAIWALA,matched,Dehradun,Uttarakhand,Lookup,Dehradun (Uttarakhand),https://www.geonames.org/1258942/
+North 1,RAMNAGAR (UK),matched,Nainital,Uttarakhand,Lookup,Nainital (Uttarakhand),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=34
+North 1,RAMPUR (UP),matched,Rampur,Uttar Pradesh,Lookup,Rampur (Uttar Pradesh),https://www.geonames.org/1258622/
+North 1,RANIKHET,matched,Almora,Uttarakhand,Lookup,Almora (Uttarakhand),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=34
+North 1,RISHIKESH,matched,Dehradun,Uttarakhand,Lookup,Dehradun (Uttarakhand),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=34
+North 1,ROORKEE,matched,Hardwar,Uttarakhand,Lookup,Hardwar (Uttarakhand),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=34
+North 1,RUDARPRAYAG,matched,Rudraprayag,Uttarakhand,Lookup,Rudraprayag (Uttarakhand),https://www.geonames.org/8739870/
+North 1,RUDRAPUR,needs_review,,,Needs review,Udham Singh Nagar (Uttarakhand) | Deoria (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=34 | https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 1,SAHARANPUR,matched,Saharanpur,Uttar Pradesh,Lookup,Saharanpur (Uttar Pradesh),https://www.geonames.org/1257807/
+North 1,SAMBHAL,matched,Sambhal,Uttar Pradesh,Lookup,Sambhal (Uttar Pradesh),https://www.geonames.org/11875569/
+North 1,SARDHANA,matched,Meerut,Uttar Pradesh,Lookup,Meerut (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 1,SELAQUI,matched,Dehradun,Uttarakhand,Lookup,Dehradun (Uttarakhand),https://www.geonames.org/postalcode-search.html?country=IN&postalcode=248011
+North 1,SHAHABAD,needs_review,,,Needs review,Rampur (Uttar Pradesh) | Hardoi (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 1,SHAMLI,matched,Samli,Uttar Pradesh,Lookup,Samli (Uttar Pradesh),https://www.geonames.org/11875566/
+North 1,SITARGANJ,matched,Udham Singh Nagar,Uttarakhand,Lookup,Udham Singh Nagar (Uttarakhand),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=34
+North 1,SRINAGAR (UK),matched,Garhwal,Uttarakhand,Lookup,Garhwal (Uttarakhand),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=34
+North 1,SWAR,matched,Rampur,Uttar Pradesh,Lookup,Rampur (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 1,TANAKPUR,matched,Champawat,Uttarakhand,Lookup,Champawat (Uttarakhand),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=34
+North 1,THAKURDWARA,matched,Moradabad,Uttar Pradesh,Lookup,Moradabad (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 1,UTTAR KASHI,matched,Uttarkashi,Uttarakhand,Lookup,Uttarkashi (Uttarakhand),https://www.geonames.org/1253629/
+North 1,VIKASNAGAR,matched,Dehradun,Uttarakhand,Lookup,Dehradun (Uttarakhand),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=34
+North 2,ABOHAR,matched,Fazilka,Punjab,Lookup,Fazilka (Punjab),https://www.geonames.org/1279403/ | https://www.geonames.org/12681581/
+North 2,ADAMPUR (PB),matched,Jalandhar,Punjab,Lookup,Jalandhar (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,AJNALA,matched,Amritsar,Punjab,Lookup,Amritsar (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,AKHNOOR,matched,Jammu,Jammu and Kashmir,Lookup,Jammu (Jammu and Kashmir),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=37
+North 2,AMLOH,matched,Fatehgarh Sahib,Punjab,Lookup,Fatehgarh Sahib (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,AMRITSAR,matched,Amritsar,Punjab,Lookup,Amritsar (Punjab),https://www.geonames.org/1278711/
+North 2,ANANDPUR SAHIB,matched,Rupnagar,Punjab,Lookup,Rupnagar (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,ANANTNAG,matched,Anantnag,Jammu and Kashmir,Lookup,Anantnag (Jammu and Kashmir),https://www.geonames.org/1278668/
+North 2,APRA,matched,Jalandhar,Punjab,Lookup,Jalandhar (Punjab),https://www.geonames.org/10713706/
+North 2,AUR,matched,Shahid Bhagat Singh Nagar,Punjab,Lookup,Shahid Bhagat Singh Nagar (Punjab),https://www.geonames.org/7645180/
+North 2,BAGHA PURANA,matched,Moga,Punjab,Lookup,Moga (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,BALACHOR,matched,Shahid Bhagat Singh Nagar,Punjab,Lookup,Shahid Bhagat Singh Nagar (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,BALBEHRA,needs_review,,,Needs review,Kaithal (Haryana) | Patiala (Punjab),https://www.geonames.org/10435461/ | https://www.geonames.org/10435511/
+North 2,BANDIPORA,matched,Bandipore,Jammu and Kashmir,Lookup,Bandipore (Jammu and Kashmir),https://www.geonames.org/12682720/
+North 2,BANGA,matched,Shahid Bhagat Singh Nagar,Punjab,Lookup,Shahid Bhagat Singh Nagar (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,BANIHAL,matched,Ramban,Jammu and Kashmir,Lookup,Ramban (Jammu and Kashmir),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=37
+North 2,BANIKHET,matched,Chamba,Himachal Pradesh,Lookup,Chamba (Himachal Pradesh),https://www.geonames.org/postalcode-search.html?country=IN&postalcode=176303
+North 2,BANUR,matched,Sahibzada Ajit Singh Nagar,Punjab,Lookup,Sahibzada Ajit Singh Nagar (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,BARAMULA,matched,Baramula,Jammu and Kashmir,Lookup,Baramula (Jammu and Kashmir),https://www.geonames.org/1277086/
+North 2,BARNALA,matched,Barnala,Punjab,Lookup,Barnala (Punjab),https://www.geonames.org/8407165/
+North 2,BARWALA-HR,matched,Hisar,Haryana,Lookup,Hisar (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 2,BASHOLI,matched,Kathua,Jammu and Kashmir,Lookup,Kathua (Jammu and Kashmir),https://www.geonames.org/12685247/
+North 2,BATALA,matched,Gurdaspur,Punjab,Lookup,Gurdaspur (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,BEGOWAL,matched,Kapurthala,Punjab,Lookup,Kapurthala (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,BHADARWAH,matched,Doda,Jammu and Kashmir,Lookup,Doda (Jammu and Kashmir),https://www.geonames.org/1276358/
+North 2,BHAGTABHAIKA,matched,Bathinda,Punjab,Lookup,Bathinda (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,BHATINDA,matched,Bathinda,Punjab,Lookup,Bathinda (Punjab),https://www.geonames.org/1276070/ | https://www.geonames.org/1276071/
+North 2,BHAWANIGARH,matched,Sangrur,Punjab,Lookup,Sangrur (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,BHIKIWIND,matched,Tarn Taran,Punjab,Lookup,Tarn Taran (Punjab),https://www.geonames.org/12681627/
+North 2,BHOGPUR,matched,Jalandhar,Punjab,Lookup,Jalandhar (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,BHOLATH,matched,Kapurthala,Punjab,Lookup,Kapurthala (Punjab),https://www.geonames.org/1275859/
+North 2,BHUDLADA,matched,Mansa,Punjab,Lookup,Mansa (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,BILGA,matched,Jalandhar,Punjab,Lookup,Jalandhar (Punjab),https://www.geonames.org/1275622/
+North 2,BUDHAL,matched,Rajouri,Jammu and Kashmir,Lookup,Rajouri (Jammu and Kashmir),https://www.geonames.org/12519448/
+North 2,BULLOWAL,matched,Hoshiarpur,Punjab,Lookup,Hoshiarpur (Punjab),https://dsel.education.gov.in/sites/default/files/2019-07/PB_PAB_2019_2020.pdf
+North 2,CHAAL BONIYAAR URI,matched,Baramula,Jammu and Kashmir,Lookup,Baramula (Jammu and Kashmir),https://censusindia.gov.in/nada/index.php/catalog/41324/study-description
+North 2,CHABAL KALAN,matched,Tarn Taran,Punjab,Lookup,Tarn Taran (Punjab),https://www.geonames.org/1274956/
+North 2,CHAMBA,matched,Chamba,Himachal Pradesh,Lookup,Chamba (Himachal Pradesh),https://www.geonames.org/1274849/
+North 2,CHANDIGARH,matched,Chandigarh,Chandigarh,Lookup,Chandigarh (Chandigarh),https://www.geonames.org/9747956/
+North 2,CHENANI,matched,Udhampur,Jammu and Kashmir,Lookup,Udhampur (Jammu and Kashmir),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=37
+North 2,CHOGAWAN,matched,Amritsar,Punjab,Lookup,Amritsar (Punjab),https://www.geonames.org/1273944/
+North 2,CHOWARI,matched,Chamba,Himachal Pradesh,Lookup,Chamba (Himachal Pradesh),https://www.geonames.org/6941535/
+North 2,CHOWKI CHOURA,matched,Jammu,Jammu and Kashmir,Lookup,Jammu (Jammu and Kashmir),https://www.geonames.org/12685219/
+North 2,CHUNNI KALAN,matched,Fatehgarh Sahib,Punjab,Lookup,Fatehgarh Sahib (Punjab),https://www.geonames.org/postalcode-search.html?country=IN&postalcode=140406
+North 2,DANSAL,matched,Jammu,Jammu and Kashmir,Lookup,Jammu (Jammu and Kashmir),https://www.geonames.org/12685220/
+North 2,DARHAL,matched,Rajouri,Jammu and Kashmir,Lookup,Rajouri (Jammu and Kashmir),https://www.geonames.org/12685264/
+North 2,DASUA,matched,Hoshiarpur,Punjab,Lookup,Hoshiarpur (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,DAYALACHAK,matched,Kathua,Jammu and Kashmir,Lookup,Kathua (Jammu and Kashmir),https://rgp.jk.gov.in/pdf/SRO/SO-2021/S.%20O.%20%20114%20%20%20%20%202021%20%20%20PDF.pdf
+North 2,DERABASSI,matched,Sahibzada Ajit Singh Nagar,Punjab,Lookup,Sahibzada Ajit Singh Nagar (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,DEVIGARH,needs_review,,,Needs review,Jammu (Jammu and Kashmir) | Kaithal (Haryana) | Patiala (Punjab),https://www.geonames.org/1381484/ | https://www.geonames.org/6989568/ | https://www.geonames.org/10438925/
+North 2,DHARAMKOT,matched,Moga,Punjab,Lookup,Moga (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,DHILWAN,matched,Kapurthala,Punjab,Lookup,Kapurthala (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,DINANAGAR,matched,Gurdaspur,Punjab,Lookup,Gurdaspur (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,DITTUPUR JATTAN,matched,Patiala,Punjab,Lookup,Patiala (Punjab),https://censusindia.gov.in/nada/index.php/catalog/1011/download/3058/DH_2011_0314_PART_B_DCHB_PATIALA.pdf
+North 2,DODA,matched,Doda,Jammu and Kashmir,Lookup,Doda (Jammu and Kashmir),https://www.geonames.org/9747931/
+North 2,DORAHA,matched,Ludhiana,Punjab,Lookup,Ludhiana (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,FARIDKOT,matched,Faridkot,Punjab,Lookup,Faridkot (Punjab),https://www.geonames.org/1271950/
+North 2,FATEHGARH CHURIAN,matched,Gurdaspur,Punjab,Lookup,Gurdaspur (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,FAZILKA,matched,Fazilka,Punjab,Lookup,Fazilka (Punjab),https://www.geonames.org/8407166/
+North 2,FEROZPUR,matched,Firozpur,Punjab,Lookup,Firozpur (Punjab),https://www.geonames.org/1271884/
+North 2,GANDERBAL,matched,Ganderbal,Jammu and Kashmir,Lookup,Ganderbal (Jammu and Kashmir),https://www.geonames.org/9748040/
+North 2,GARDHIWALA,matched,Hoshiarpur,Punjab,Lookup,Hoshiarpur (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,GARHSHANKAR,matched,Hoshiarpur,Punjab,Lookup,Hoshiarpur (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,GHAGGA,matched,Patiala,Punjab,Lookup,Patiala (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,GHANAUR,matched,Patiala,Punjab,Lookup,Patiala (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,GHAROTA,matched,Pathankot,Punjab,Lookup,Pathankot (Punjab),https://www.geonames.org/10686709/
+North 2,GHOMAN,matched,Gurdaspur,Punjab,Lookup,Gurdaspur (Punjab),https://www.geonames.org/10700954/
+North 2,GIDERBAHA,matched,Muktsar,Punjab,Lookup,Muktsar (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,GONIANA,matched,Bathinda,Punjab,Lookup,Bathinda (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,GORAYA,matched,Jalandhar,Punjab,Lookup,Jalandhar (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,GURDASPUR,matched,Gurdaspur,Punjab,Lookup,Gurdaspur (Punjab),https://www.geonames.org/1270648/
+North 2,HANDWARA,matched,Kupwara,Jammu and Kashmir,Lookup,Kupwara (Jammu and Kashmir),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=37
+North 2,HANJIWARA PATTAN,matched,Baramula,Jammu and Kashmir,Lookup,Baramula (Jammu and Kashmir),https://rgp.jk.gov.in/pdf/GAZETTE%202014/2019/G.%20No.%2012%202019.pdf
+North 2,HARIANA,matched,Hoshiarpur,Punjab,Lookup,Hoshiarpur (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,HATHUR,matched,Ludhiana,Punjab,Lookup,Ludhiana (Punjab),https://www.geonames.org/postalcode-search.html?country=IN&postalcode=142031
+North 2,HOSHIARPUR,matched,Hoshiarpur,Punjab,Lookup,Hoshiarpur (Punjab),https://www.geonames.org/1269938/
+North 2,INDORA,matched,Kangra,Himachal Pradesh,Lookup,Kangra (Himachal Pradesh),https://www.geonames.org/12682513/ | https://www.geonames.org/10686949/
+North 2,JAITO,matched,Faridkot,Punjab,Lookup,Faridkot (Punjab),https://www.geonames.org/1269488/
+North 2,JALALABAD-PB,matched,Fazilka,Punjab,Lookup,Fazilka (Punjab),https://www.geonames.org/1269445/ | https://www.geonames.org/12681579/
+North 2,JALLANDHAR,matched,Jalandhar,Punjab,Lookup,Jalandhar (Punjab),https://www.geonames.org/1268783/
+North 2,JAMMU,matched,Jammu,Jammu and Kashmir,Lookup,Jammu (Jammu and Kashmir),https://www.geonames.org/1269322/
+North 2,JANDIALA GURU,matched,Amritsar,Punjab,Lookup,Amritsar (Punjab),https://www.geonames.org/1269267/
+North 2,JANDIALA MANJKI,matched,Jalandhar,Punjab,Lookup,Jalandhar (Punjab),https://punjabandsindbank.co.in/system/uploads/document/2150_2024100913142529093.pdf
+North 2,JAWALI,matched,Kangra,Himachal Pradesh,Lookup,Kangra (Himachal Pradesh),https://www.geonames.org/12685303/
+North 2,JHANJERI,matched,Sahibzada Ajit Singh Nagar,Punjab,Lookup,Sahibzada Ajit Singh Nagar (Punjab),https://www.geonames.org/10734040/
+North 2,JODHAN,matched,Ludhiana,Punjab,Lookup,Ludhiana (Punjab),https://www.geonames.org/10261593/
+North 2,JOURIAN,matched,Jammu,Jammu and Kashmir,Lookup,Jammu (Jammu and Kashmir),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=37
+North 2,KAHNUWAN,matched,Gurdaspur,Punjab,Lookup,Gurdaspur (Punjab),https://www.geonames.org/1268632/ | https://www.geonames.org/13428587/
+North 2,KALA SANGHIAN,matched,Kapurthala,Punjab,Lookup,Kapurthala (Punjab),https://www.geonames.org/1268524/
+North 2,KALANAUR (PB),matched,Gurdaspur,Punjab,Lookup,Gurdaspur (Punjab),https://www.geonames.org/1268475/ | https://www.geonames.org/12681633/
+North 2,KALKA,matched,Panchkula,Haryana,Lookup,Panchkula (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 2,KANGAN,matched,Ganderbal,Jammu and Kashmir,Lookup,Ganderbal (Jammu and Kashmir),https://www.geonames.org/12684836/
+North 2,KAPURTHALA,matched,Kapurthala,Punjab,Lookup,Kapurthala (Punjab),https://www.geonames.org/1267912/
+North 2,KARALPORA,needs_review,,,Needs review,Badgam (Jammu and Kashmir) | Kupwara (Jammu and Kashmir),https://www.geonames.org/12685174/ | https://www.geonames.org/10606880/
+North 2,KARGIL,matched,Kargil,Ladakh,Lookup,Kargil (Ladakh),https://www.geonames.org/9748001/
+North 2,KARTARPUR,matched,Jalandhar,Punjab,Lookup,Jalandhar (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,KATHUA,matched,Kathua,Jammu and Kashmir,Lookup,Kathua (Jammu and Kashmir),https://www.geonames.org/1267487/
+North 2,KATHUNANGAL,matched,Amritsar,Punjab,Lookup,Amritsar (Punjab),https://www.geonames.org/1267483/
+North 2,KATRA (JK),matched,Reasi,Jammu and Kashmir,Lookup,Reasi (Jammu and Kashmir),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=37
+North 2,KHAMANO,matched,Fatehgarh Sahib,Punjab,Lookup,Fatehgarh Sahib (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,KHANNA,matched,Ludhiana,Punjab,Lookup,Ludhiana (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,KHARAR,matched,Sahibzada Ajit Singh Nagar,Punjab,Lookup,Sahibzada Ajit Singh Nagar (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,KHASA,matched,Amritsar,Punjab,Lookup,Amritsar (Punjab),https://www.geonames.org/10692351/
+North 2,KILLIANWALI,needs_review,,,Needs review,Muktsar (Punjab) | Firozpur (Punjab),https://www.geonames.org/postalcode-search.html?country=IN&postalcode=152128 | https://www.geonames.org/postalcode-search.html?country=IN&postalcode=151211
+North 2,KISHTWAR,matched,Kishtwar,Jammu and Kashmir,Lookup,Kishtwar (Jammu and Kashmir),https://www.geonames.org/9747940/
+North 2,KOHARA,matched,Ludhiana,Punjab,Lookup,Ludhiana (Punjab),https://www.geonames.org/10432283/
+North 2,KOTKAPURA,matched,Faridkot,Punjab,Lookup,Faridkot (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,KOTRANKA,matched,Rajouri,Jammu and Kashmir,Lookup,Rajouri (Jammu and Kashmir),https://www.geonames.org/12682765/
+North 2,KUPWARA,matched,Kupwara,Jammu and Kashmir,Lookup,Kupwara (Jammu and Kashmir),https://www.geonames.org/9748042/
+North 2,LALRU,matched,Sahibzada Ajit Singh Nagar,Punjab,Lookup,Sahibzada Ajit Singh Nagar (Punjab),https://www.geonames.org/10436674/
+North 2,LEH,matched,Leh(Ladakh),Ladakh,Lookup,Leh(Ladakh) (Ladakh),https://www.geonames.org/1265343/
+North 2,LUDHIANA,matched,Ludhiana,Punjab,Lookup,Ludhiana (Punjab),https://www.geonames.org/1264729/
+North 2,MACHIWARA,matched,Ludhiana,Punjab,Lookup,Ludhiana (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,MAGAM,matched,Badgam,Jammu and Kashmir,Lookup,Badgam (Jammu and Kashmir),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=37
+North 2,MAHANPUR,matched,Kathua,Jammu and Kashmir,Lookup,Kathua (Jammu and Kashmir),https://www.geonames.org/12685167/
+North 2,MAHILPUR,matched,Hoshiarpur,Punjab,Lookup,Hoshiarpur (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,MAJITHA,matched,Amritsar,Punjab,Lookup,Amritsar (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,MALERKOTLA,matched,Sangrur,Punjab,Lookup,Sangrur (Punjab),https://www.geonames.org/12680250/
+North 2,MALOUT,matched,Muktsar,Punjab,Lookup,Muktsar (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,MANDI GOBINDGARH,matched,Fatehgarh Sahib,Punjab,Lookup,Fatehgarh Sahib (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,MANJAKOTE,matched,Rajouri,Jammu and Kashmir,Lookup,Rajouri (Jammu and Kashmir),https://www.geonames.org/12682768/
+North 2,MANSA-PB,matched,Mansa,Punjab,Lookup,Mansa (Punjab),https://www.geonames.org/8407027/
+North 2,MARH,matched,Jammu,Jammu and Kashmir,Lookup,Jammu (Jammu and Kashmir),https://www.geonames.org/12685226/
+North 2,MEHARBAN,matched,Ludhiana,Punjab,Lookup,Ludhiana (Punjab),https://indiainvestmentgrid.gov.in/opportunities/stressed-asset/600006
+North 2,MEHTA,matched,Gurdaspur,Punjab,Lookup,Gurdaspur (Punjab),https://www.geonames.org/10695403/
+North 2,MENDHAR,matched,Punch,Jammu and Kashmir,Lookup,Punch (Jammu and Kashmir),https://www.geonames.org/12685253/
+North 2,MOGA,matched,Moga,Punjab,Lookup,Moga (Punjab),https://www.geonames.org/8407028/
+North 2,MOHALI,matched,Sahibzada Ajit Singh Nagar,Punjab,Lookup,Sahibzada Ajit Singh Nagar (Punjab),https://www.geonames.org/6992326/ | https://www.geonames.org/8407426/
+North 2,MOONAK MANDI,matched,Sangrur,Punjab,Lookup,Sangrur (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,MORINDA,matched,Rupnagar,Punjab,Lookup,Rupnagar (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,MUKERIAN,matched,Hoshiarpur,Punjab,Lookup,Hoshiarpur (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,MUKTSAR,matched,Muktsar,Punjab,Lookup,Muktsar (Punjab),https://www.geonames.org/7909875/
+North 2,MULLANPUR,matched,Ludhiana,Punjab,Lookup,Ludhiana (Punjab),https://www.geonames.org/10256367/
+North 2,MULLANPUR GARIBDAS,matched,Sahibzada Ajit Singh Nagar,Punjab,Lookup,Sahibzada Ajit Singh Nagar (Punjab),https://www.gmada.gov.in/en/node/11726
+North 2,NABHA,matched,Patiala,Punjab,Lookup,Patiala (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,NAKODAR,matched,Jalandhar,Punjab,Lookup,Jalandhar (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,NANGAL,matched,Rupnagar,Punjab,Lookup,Rupnagar (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,NAWANSHAHR,matched,Shahid Bhagat Singh Nagar,Punjab,Lookup,Shahid Bhagat Singh Nagar (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,NIHALSINGHWALA,matched,Moga,Punjab,Lookup,Moga (Punjab),https://www.geonames.org/12681572/
+North 2,NOWSHERA,matched,Rajouri,Jammu and Kashmir,Lookup,Rajouri (Jammu and Kashmir),https://www.geonames.org/12682560/
+North 2,NURPUR,matched,Kangra,Himachal Pradesh,Lookup,Kangra (Himachal Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=14
+North 2,PANCHARI,matched,Udhampur,Jammu and Kashmir,Lookup,Udhampur (Jammu and Kashmir),https://www.geonames.org/12685275/
+North 2,PANCHKULA,matched,Panchkula,Haryana,Lookup,Panchkula (Haryana),https://www.geonames.org/8402825/
+North 2,PATHANKOT,matched,Pathankot,Punjab,Lookup,Pathankot (Punjab),https://www.geonames.org/8408318/
+North 2,PATIALA,matched,Patiala,Punjab,Lookup,Patiala (Punjab),https://www.geonames.org/1260108/
+North 2,PATRAN,matched,Patiala,Punjab,Lookup,Patiala (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,PATTI(PB),matched,Tarn Taran,Punjab,Lookup,Tarn Taran (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,PAYAL,matched,Ludhiana,Punjab,Lookup,Ludhiana (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,PHAGWARA,matched,Kapurthala,Punjab,Lookup,Kapurthala (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,PHILLAUR,matched,Jalandhar,Punjab,Lookup,Jalandhar (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,PHINTER,matched,Kathua,Jammu and Kashmir,Lookup,Kathua (Jammu and Kashmir),https://www.geonames.org/postalcode-search.html?country=IN&postalcode=184203
+North 2,POHIR,matched,Ludhiana,Punjab,Lookup,Ludhiana (Punjab),https://censusindia.gov.in/nada/index.php/catalog/40722
+North 2,POONCH,matched,Punch,Jammu and Kashmir,Lookup,Punch (Jammu and Kashmir),https://www.geonames.org/1167718/
+North 2,RAIKOT,matched,Ludhiana,Punjab,Lookup,Ludhiana (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,RAIPUR RANI,matched,Panchkula,Haryana,Lookup,Panchkula (Haryana),https://www.geonames.org/1258966/ | https://www.geonames.org/12682446/
+North 2,RAJAURI,matched,Rajouri,Jammu and Kashmir,Lookup,Rajouri (Jammu and Kashmir),https://www.geonames.org/1258892/
+North 2,RAJPURA,matched,Patiala,Punjab,Lookup,Patiala (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,RAMBAN,matched,Ramban,Jammu and Kashmir,Lookup,Ramban (Jammu and Kashmir),https://www.geonames.org/9747994/
+North 2,RAMNAGAR (JK),matched,Udhampur,Jammu and Kashmir,Lookup,Udhampur (Jammu and Kashmir),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=37
+North 2,RAMPURA PHUL,matched,Bathinda,Punjab,Lookup,Bathinda (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,RAYYA,matched,Amritsar,Punjab,Lookup,Amritsar (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,REASI,matched,Reasi,Jammu and Kashmir,Lookup,Reasi (Jammu and Kashmir),https://www.geonames.org/9747996/
+North 2,REHAN,needs_review,,,Needs review,Kangra (Himachal Pradesh) | Kathua (Jammu and Kashmir),https://www.geonames.org/postalcode-search.html?country=IN&postalcode=176022 | https://www.geonames.org/postalcode-search.html?country=IN&postalcode=184201
+North 2,ROOPNAGAR,matched,Rupnagar,Punjab,Lookup,Rupnagar (Punjab),https://www.geonames.org/1257953/
+North 2,RS PURA,matched,Jammu,Jammu and Kashmir,Lookup,Jammu (Jammu and Kashmir),https://www.geonames.org/12685233/
+North 2,SALOONI,matched,Chamba,Himachal Pradesh,Lookup,Chamba (Himachal Pradesh),https://www.geonames.org/11184451/
+North 2,SAMANA,matched,Patiala,Punjab,Lookup,Patiala (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,SAMRALA,matched,Ludhiana,Punjab,Lookup,Ludhiana (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,SANGRUR,matched,Sangrur,Punjab,Lookup,Sangrur (Punjab),https://www.geonames.org/1257403/
+North 2,SARDULGARH,matched,Mansa,Punjab,Lookup,Mansa (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,SARHALI,needs_review,,,Needs review,Tarn Taran (Punjab) | Jalandhar (Punjab),https://www.geonames.org/10713153/ | https://tarntaran.nic.in/public-utility/gill-self-help-society-sarhali-khurd/
+North 2,SHAHKOT,matched,Jalandhar,Punjab,Lookup,Jalandhar (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,SIDHRA,matched,Jammu,Jammu and Kashmir,Lookup,Jammu (Jammu and Kashmir),https://jammutourism.jk.gov.in/exploreJammu-Golf-Tourism.html
+North 2,SIRHIND,matched,Fatehgarh Sahib,Punjab,Lookup,Fatehgarh Sahib (Punjab),https://www.geonames.org/1256087/
+North 2,SRINAGAR,matched,Srinagar,Jammu and Kashmir,Lookup,Srinagar (Jammu and Kashmir),https://www.geonames.org/1255639/
+North 2,SRINAGAR(JK),matched,Srinagar,Jammu and Kashmir,Lookup,Srinagar (Jammu and Kashmir),https://www.geonames.org/1255639/
+North 2,SULTANPUR LODHI,matched,Kapurthala,Punjab,Lookup,Kapurthala (Punjab),https://www.geonames.org/12682384/ | https://www.geonames.org/1255488/
+North 2,SUMBAL,matched,Bandipore,Jammu and Kashmir,Lookup,Bandipore (Jammu and Kashmir),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=37
+North 2,SUNAM,matched,Sangrur,Punjab,Lookup,Sangrur (Punjab),https://www.geonames.org/1255449/ | https://www.geonames.org/12681614/
+North 2,SUNDARBANI,matched,Rajouri,Jammu and Kashmir,Lookup,Rajouri (Jammu and Kashmir),https://www.geonames.org/12682807/
+North 2,TALWANDI BHAI,matched,Firozpur,Punjab,Lookup,Firozpur (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,TALWANDI SABO,matched,Bathinda,Punjab,Lookup,Bathinda (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,TALWARA,needs_review,,,Needs review,Reasi (Jammu and Kashmir) | Hoshiarpur (Punjab),https://www.geonames.org/1255076/ | https://www.geonames.org/13353354/
+North 2,TANDA,matched,Hoshiarpur,Punjab,Lookup,Hoshiarpur (Punjab),https://www.geonames.org/12681640/
+North 2,TAPA,matched,Barnala,Punjab,Lookup,Barnala (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,TARAGARH,needs_review,,,Needs review,Chamba (Himachal Pradesh) | Punch (Jammu and Kashmir) | Kaithal (Haryana) | Gurdaspur (Punjab) | Amritsar (Punjab) | Hoshiarpur (Punjab),https://www.geonames.org/1432453/ | https://www.geonames.org/1432454/ | https://www.geonames.org/10439069/ | https://www.geonames.org/10687969/ | https://www.geonames.org/10687990/ | https://www.geonames.org/10697573/ | https://www.geonames.org/10697916/ | https://www.geonames.org/10700713/ | https://www.geonames.org/10713324/
+North 2,TARN TARAN,matched,Tarn Taran,Punjab,Lookup,Tarn Taran (Punjab),https://www.geonames.org/8408319/
+North 2,TARSIKKA,matched,Amritsar,Punjab,Lookup,Amritsar (Punjab),https://www.geonames.org/10697959/
+North 2,THANNA MANDI,matched,Rajouri,Jammu and Kashmir,Lookup,Rajouri (Jammu and Kashmir),https://www.geonames.org/1254647/
+North 2,UDHAMPUR,matched,Udhampur,Jammu and Kashmir,Lookup,Udhampur (Jammu and Kashmir),https://www.geonames.org/1253957/
+North 2,VIJAYPUR-JK,matched,Samba,Jammu and Kashmir,Lookup,Samba (Jammu and Kashmir),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=37
+North 2,ZIRA,matched,Firozpur,Punjab,Lookup,Firozpur (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 2,ZIRAKPUR,matched,Sahibzada Ajit Singh Nagar,Punjab,Lookup,Sahibzada Ajit Singh Nagar (Punjab),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=28
+North 3,AGRA,matched,Agra,Uttar Pradesh,Lookup,Agra (Uttar Pradesh),https://www.geonames.org/1279262/
+North 3,AJITMAL,matched,Auraiya,Uttar Pradesh,Lookup,Auraiya (Uttar Pradesh),https://www.geonames.org/12683302/
+North 3,AKBARPUR (KANPUR),matched,Kanpur Dehat,Uttar Pradesh,Lookup,Kanpur Dehat (Uttar Pradesh),https://www.geonames.org/1279135/ | https://www.geonames.org/12683080/
+North 3,AKBARPUR-A NAGAR,matched,Ambedkar Nagar,Uttar Pradesh,Lookup,Ambedkar Nagar (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,ALAPUR,needs_review,,,Needs review,Moradabad (Uttar Pradesh) | Budaun (Uttar Pradesh) | Hapur (Uttar Pradesh) | Hardoi (Uttar Pradesh) | Sultanpur (Uttar Pradesh) | Faizabad (Uttar Pradesh) | Ambedkar Nagar (Uttar Pradesh) | Pratapgarh (Uttar Pradesh) | Jaunpur (Uttar Pradesh) | Bara Banki (Uttar Pradesh) | Unnao (Uttar Pradesh) | Mau (Uttar Pradesh) | Lalitpur (Uttar Pradesh) | Ghazipur (Uttar Pradesh),https://www.geonames.org/6990816/ | https://www.geonames.org/6993059/ | https://www.geonames.org/6994954/ | https://www.geonames.org/10466842/ | https://www.geonames.org/10510241/ | https://www.geonames.org/10543000/ | https://www.geonames.org/10552836/ | https://www.geonames.org/10552982/ | https://www.geonames.org/10553378/ | https://www.geonames.org/10586618/ | https://www.geonames.org/10588520/ | https://www.geonames.org/10592796/ | https://www.geonames.org/10614866/ | https://www.geonames.org/10617923/ | https://www.geonames.org/10652170/ | https://www.geonames.org/10668528/ | https://www.geonames.org/10750971/
+North 3,ALIGANJ,matched,Etah,Uttar Pradesh,Lookup,Etah (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,ALIGARH,matched,Aligarh,Uttar Pradesh,Lookup,Aligarh (Uttar Pradesh),https://www.geonames.org/1279020/
+North 3,AMRITPUR,matched,Farrukhabad,Uttar Pradesh,Lookup,Farrukhabad (Uttar Pradesh),https://www.geonames.org/12683059/
+North 3,ANAND NAGAR,matched,Mahrajganj,Uttar Pradesh,Lookup,Mahrajganj (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,ANPARA,matched,Sonbhadra,Uttar Pradesh,Lookup,Sonbhadra (Uttar Pradesh),https://www.geonames.org/10559595/
+North 3,AONLA,matched,Bareilly,Uttar Pradesh,Lookup,Bareilly (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,ATARRA,matched,Banda,Uttar Pradesh,Lookup,Banda (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,ATRAULI,matched,Aligarh,Uttar Pradesh,Lookup,Aligarh (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,AURAI,matched,Sant Ravidas Nagar (Bhadohi),Uttar Pradesh,Lookup,Sant Ravidas Nagar (Bhadohi) (Uttar Pradesh),https://www.geonames.org/12683241/
+North 3,AURAIYA,matched,Auraiya,Uttar Pradesh,Lookup,Auraiya (Uttar Pradesh),https://www.geonames.org/7729744/
+North 3,AZAMGARH,matched,Azamgarh,Uttar Pradesh,Lookup,Azamgarh (Uttar Pradesh),https://www.geonames.org/1278084/
+North 3,BABHANAN,matched,Basti,Uttar Pradesh,Lookup,Basti (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,BACHRAWAN,matched,Rae Bareli,Uttar Pradesh,Lookup,Rae Bareli (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,BAH,matched,Agra,Uttar Pradesh,Lookup,Agra (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,BAHERI,matched,Bareilly,Uttar Pradesh,Lookup,Bareilly (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,BAHRAICH,matched,Bahraich,Uttar Pradesh,Lookup,Bahraich (Uttar Pradesh),https://www.geonames.org/1277800/
+North 3,BALDEO,matched,Mathura,Uttar Pradesh,Lookup,Mathura (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,BALLIA,matched,Ballia,Uttar Pradesh,Lookup,Ballia (Uttar Pradesh),https://www.geonames.org/1277553/
+North 3,BALRAMPUR,matched,Balrampur,Uttar Pradesh,Lookup,Balrampur (Uttar Pradesh),https://www.geonames.org/7729745/
+North 3,BALRAMPUR(UP),matched,Balrampur,Uttar Pradesh,Lookup,Balrampur (Uttar Pradesh),https://www.geonames.org/7729745/
+North 3,BANDA,matched,Banda,Uttar Pradesh,Lookup,Banda (Uttar Pradesh),https://www.geonames.org/1277400/
+North 3,BANDA (SHAHJAHANPUR),matched,Shahjahanpur,Uttar Pradesh,Lookup,Shahjahanpur (Uttar Pradesh),https://www.uppolice.gov.in/site/writereaddata/siteContent/CONTACT%20US/202309121508159960PS_LIST.pdf
+North 3,BANGARMAU,matched,Unnao,Uttar Pradesh,Lookup,Unnao (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,BANSI,matched,Siddharthnagar,Uttar Pradesh,Lookup,Siddharthnagar (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,BANTHRA (UP),needs_review,,,Needs review,Shahjahanpur (Uttar Pradesh) | Lucknow (Uttar Pradesh),https://www.geonames.org/1277207/ | https://www.geonames.org/10471810/ | https://www.geonames.org/1277206/
+North 3,BARABANKI,matched,Bara Banki,Uttar Pradesh,Lookup,Bara Banki (Uttar Pradesh),https://www.geonames.org/1277159/
+North 3,BAREILLY,matched,Bareilly,Uttar Pradesh,Lookup,Bareilly (Uttar Pradesh),https://www.geonames.org/1277014/
+North 3,BARHAJ,matched,Deoria,Uttar Pradesh,Lookup,Deoria (Uttar Pradesh),https://www.geonames.org/12683194/
+North 3,BARHALGANJ,matched,Gorakhpur,Uttar Pradesh,Lookup,Gorakhpur (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,BARHAN,needs_review,,,Needs review,Auraiya (Uttar Pradesh) | Agra (Uttar Pradesh) | Chandauli (Uttar Pradesh),https://www.geonames.org/1276967/ | https://www.geonames.org/10503426/ | https://www.geonames.org/10964222/
+North 3,BASTI,matched,Basti,Uttar Pradesh,Lookup,Basti (Uttar Pradesh),https://www.geonames.org/1276737/
+North 3,BEHTA,needs_review,,,Needs review,Sambhal (Uttar Pradesh) | Budaun (Uttar Pradesh) | Bahraich (Uttar Pradesh) | Sitapur (Uttar Pradesh) | Kheri (Uttar Pradesh) | Mathura (Uttar Pradesh) | Hardoi (Uttar Pradesh) | Farrukhabad (Uttar Pradesh) | Kannauj (Uttar Pradesh) | Pilibhit (Uttar Pradesh) | Azamgarh (Uttar Pradesh) | Gonda (Uttar Pradesh) | Bara Banki (Uttar Pradesh) | Unnao (Uttar Pradesh) | Fatehpur (Uttar Pradesh) | Rae Bareli (Uttar Pradesh) | Jhansi (Uttar Pradesh),https://www.geonames.org/6993050/ | https://www.geonames.org/6994287/ | https://www.geonames.org/6994732/ | https://www.geonames.org/6994874/ | https://www.geonames.org/10438046/ | https://www.geonames.org/10474384/ | https://www.geonames.org/10475645/ | https://www.geonames.org/10475748/ | https://www.geonames.org/10487218/ | https://www.geonames.org/10506830/ | https://www.geonames.org/10521379/ | https://www.geonames.org/10553319/ | https://www.geonames.org/10553845/ | https://www.geonames.org/10557497/ | https://www.geonames.org/10558426/ | https://www.geonames.org/10559319/ | https://www.geonames.org/10560656/ | https://www.geonames.org/10568186/ | https://www.geonames.org/10568442/ | https://www.geonames.org/10570501/ | https://www.geonames.org/10580676/ | https://www.geonames.org/10581606/ | https://www.geonames.org/10594279/ | https://www.geonames.org/10617054/ | https://www.geonames.org/10653014/ | https://www.geonames.org/10759732/ | https://www.geonames.org/10760114/ | https://www.geonames.org/10760480/ | https://www.geonames.org/10761119/ | https://www.geonames.org/10832552/ | https://www.geonames.org/10941698/ | https://www.geonames.org/11061748/
+North 3,BELA,matched,Pratapgarh,Uttar Pradesh,Lookup,Pratapgarh (Uttar Pradesh),https://www.geonames.org/1276574/
+North 3,BEWAR,matched,Mainpuri,Uttar Pradesh,Lookup,Mainpuri (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,BHADOHI,matched,Sant Ravidas Nagar (Bhadohi),Uttar Pradesh,Lookup,Sant Ravidas Nagar (Bhadohi) (Uttar Pradesh),https://www.geonames.org/7729751/
+North 3,BHARTHANA,matched,Etawah,Uttar Pradesh,Lookup,Etawah (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,BHIDHUNA,matched,Auraiya,Uttar Pradesh,Lookup,Auraiya (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,BHINGA,matched,Shrawasti,Uttar Pradesh,Lookup,Shrawasti (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,BHOGNIPUR,matched,Kanpur Dehat,Uttar Pradesh,Lookup,Kanpur Dehat (Uttar Pradesh),https://www.geonames.org/12683081/
+North 3,BIJNOR (LUCKNOW),matched,Lucknow,Uttar Pradesh,Lookup,Lucknow (Uttar Pradesh),https://censusindia.gov.in/nada/index.php/catalog/40836/study-description
+North 3,BILHAUR,matched,Kanpur Nagar,Uttar Pradesh,Lookup,Kanpur Nagar (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,BISALPUR,matched,Pilibhit,Uttar Pradesh,Lookup,Pilibhit (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,BISAULI,matched,Budaun,Uttar Pradesh,Lookup,Budaun (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,BISWAN,matched,Sitapur,Uttar Pradesh,Lookup,Sitapur (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,BUDAUN,matched,Budaun,Uttar Pradesh,Lookup,Budaun (Uttar Pradesh),https://www.geonames.org/1275164/
+North 3,CHAIL,matched,Kaushambi,Uttar Pradesh,Lookup,Kaushambi (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,CHAKARNAGAR,matched,Etawah,Uttar Pradesh,Lookup,Etawah (Uttar Pradesh),https://www.geonames.org/12683068/
+North 3,CHAKIA (CHANDAULI),matched,Chandauli,Uttar Pradesh,Lookup,Chandauli (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,CHAURE BAZAR,matched,Faizabad,Uttar Pradesh,Lookup,Faizabad (Uttar Pradesh),https://www.geonames.org/postalcode-search.html?country=IN&postalcode=224209
+North 3,CHAURI CHAURA,matched,Gorakhpur,Uttar Pradesh,Lookup,Gorakhpur (Uttar Pradesh),https://www.geonames.org/12683185/
+North 3,CHIBRAMAU,matched,Kannauj,Uttar Pradesh,Lookup,Kannauj (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,CHITRASENPUR,matched,Varanasi,Uttar Pradesh,Lookup,Varanasi (Uttar Pradesh),https://jjm.up.gov.in/Dashboard/StateDashboardClick2Table1?Action1=1.2&AgencyId=115&DistrictId=523&Header=Village+Details&Level=6
+North 3,COLONELGANJ,matched,Gonda,Uttar Pradesh,Lookup,Gonda (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,DALMAU,matched,Rae Bareli,Uttar Pradesh,Lookup,Rae Bareli (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,DARIYABAD,matched,Bara Banki,Uttar Pradesh,Lookup,Bara Banki (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,DATAGANJ,matched,Budaun,Uttar Pradesh,Lookup,Budaun (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,DEORIA,matched,Deoria,Uttar Pradesh,Lookup,Deoria (Uttar Pradesh),https://www.geonames.org/1273196/
+North 3,DERAPUR,matched,Kanpur Dehat,Uttar Pradesh,Lookup,Kanpur Dehat (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,DHAURAHRA,matched,Kheri,Uttar Pradesh,Lookup,Kheri (Uttar Pradesh),https://www.geonames.org/1272802/
+North 3,DIBIYAPUR,matched,Auraiya,Uttar Pradesh,Lookup,Auraiya (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,DOMARIAGANJ,matched,Siddharthnagar,Uttar Pradesh,Lookup,Siddharthnagar (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,ETAH,matched,Etah,Uttar Pradesh,Lookup,Etah (Uttar Pradesh),https://www.geonames.org/1271993/
+North 3,ETAWAH,matched,Etawah,Uttar Pradesh,Lookup,Etawah (Uttar Pradesh),https://www.geonames.org/1271989/
+North 3,FAIZABAD,matched,Faizabad,Uttar Pradesh,Lookup,Faizabad (Uttar Pradesh),https://www.geonames.org/12684676/ | https://www.geonames.org/1271976/ | https://www.geonames.org/1271977/
+North 3,FAKHARPUR,needs_review,,,Needs review,Bahraich (Uttar Pradesh) | Baghpat (Uttar Pradesh) | Mathura (Uttar Pradesh) | Kannauj (Uttar Pradesh) | Mainpuri (Uttar Pradesh) | Firozabad (Uttar Pradesh) | Azamgarh (Uttar Pradesh) | Faizabad (Uttar Pradesh) | Ambedkar Nagar (Uttar Pradesh),https://www.geonames.org/10265465/ | https://www.geonames.org/10437282/ | https://www.geonames.org/10462337/ | https://www.geonames.org/10465713/ | https://www.geonames.org/10487459/ | https://www.geonames.org/10609006/ | https://www.geonames.org/10622066/ | https://www.geonames.org/1271970/ | https://www.geonames.org/10617457/
+North 3,FARIDPUR (BAREILLY),matched,Bareilly,Uttar Pradesh,Lookup,Bareilly (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,FARRUKHABAD,matched,Farrukhabad,Uttar Pradesh,Lookup,Farrukhabad (Uttar Pradesh),https://www.geonames.org/1271942/ | https://www.geonames.org/12683060/ | https://www.geonames.org/1271943/
+North 3,FATEHABAD-UP,matched,Agra,Uttar Pradesh,Lookup,Agra (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,FATEHPUR,matched,Fatehpur,Uttar Pradesh,Lookup,Fatehpur (Uttar Pradesh),https://www.geonames.org/1271920/
+North 3,FATEHPUR(BARABANKI),matched,Bara Banki,Uttar Pradesh,Lookup,Bara Banki (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,FAZILNAGAR,matched,Kushinagar,Uttar Pradesh,Lookup,Kushinagar (Uttar Pradesh),https://www.geonames.org/10817207/
+North 3,FIROZABAD,matched,Firozabad,Uttar Pradesh,Lookup,Firozabad (Uttar Pradesh),https://www.geonames.org/7874389/
+North 3,GHATAMPUR,matched,Kanpur Nagar,Uttar Pradesh,Lookup,Kanpur Nagar (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,GHAZIPUR,matched,Ghazipur,Uttar Pradesh,Lookup,Ghazipur (Uttar Pradesh),https://www.geonames.org/1271307/
+North 3,GHIROR,matched,Mainpuri,Uttar Pradesh,Lookup,Mainpuri (Uttar Pradesh),https://www.geonames.org/1271295/ | https://www.geonames.org/12683299/
+North 3,GOLA,needs_review,,,Needs review,Kheri (Uttar Pradesh) | Gorakhpur (Uttar Pradesh),https://www.geonames.org/12683188/ | https://www.geonames.org/1271049/
+North 3,GONDA,matched,Gonda,Uttar Pradesh,Lookup,Gonda (Uttar Pradesh),https://www.geonames.org/1270997/
+North 3,GORAKHPUR,matched,Gorakhpur,Uttar Pradesh,Lookup,Gorakhpur (Uttar Pradesh),https://www.geonames.org/1270930/
+North 3,GORIGANJ,matched,Amethi,Uttar Pradesh,Lookup,Amethi (Uttar Pradesh),https://www.geonames.org/1271458/ | https://www.geonames.org/12684677/
+North 3,GOSAINGANJ,needs_review,,,Needs review,Lucknow (Uttar Pradesh) | Faizabad (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,GOVERDHAN,matched,Mathura,Uttar Pradesh,Lookup,Mathura (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,GURSAHAIGANJ,matched,Kannauj,Uttar Pradesh,Lookup,Kannauj (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,GURSARAI,matched,Jhansi,Uttar Pradesh,Lookup,Jhansi (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,HAIDERGARH,matched,Bara Banki,Uttar Pradesh,Lookup,Bara Banki (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,HAMIRPUR(UP),matched,Hamirpur,Uttar Pradesh,Lookup,Hamirpur (Uttar Pradesh),https://www.geonames.org/1270457/
+North 3,HANDIA,matched,Allahabad,Uttar Pradesh,Lookup,Allahabad (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,HARDOI,matched,Hardoi,Uttar Pradesh,Lookup,Hardoi (Uttar Pradesh),https://www.geonames.org/1270371/
+North 3,HARGAON,matched,Sitapur,Uttar Pradesh,Lookup,Sitapur (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,HARRIYA,matched,Basti,Uttar Pradesh,Lookup,Basti (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,HATHRAS,matched,Mahamaya Nagar,Uttar Pradesh,Lookup,Mahamaya Nagar (Uttar Pradesh),https://www.geonames.org/9747974/
+North 3,IGLAS,matched,Aligarh,Uttar Pradesh,Lookup,Aligarh (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,IKAUNA,matched,Shrawasti,Uttar Pradesh,Lookup,Shrawasti (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,INAYAT NAGAR,needs_review,,,Needs review,Moradabad (Uttar Pradesh) | Rampur (Uttar Pradesh) | Farrukhabad (Uttar Pradesh) | Faizabad (Uttar Pradesh) | Mahrajganj (Uttar Pradesh),https://www.geonames.org/10536799/ | https://www.geonames.org/10575135/ | https://www.geonames.org/10655879/ | https://www.geonames.org/10752376/ | https://www.uppolice.gov.in/site/writereaddata/siteContent/cctns/201811271343170943271118.pdf
+North 3,ITAUNJA,matched,Lucknow,Uttar Pradesh,Lookup,Lucknow (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,JAGATPUR,needs_review,,,Needs review,Sitapur (Uttar Pradesh) | Aligarh (Uttar Pradesh) | Bulandshahr (Uttar Pradesh) | Kheri (Uttar Pradesh) | Bareilly (Uttar Pradesh) | Etah (Uttar Pradesh) | Hardoi (Uttar Pradesh) | Kannauj (Uttar Pradesh) | Pilibhit (Uttar Pradesh) | Mainpuri (Uttar Pradesh) | Sultanpur (Uttar Pradesh) | Basti (Uttar Pradesh) | Faizabad (Uttar Pradesh) | Kanpur Nagar (Uttar Pradesh) | Sant Ravidas Nagar (Bhadohi) (Uttar Pradesh) | Auraiya (Uttar Pradesh) | Sant Kabir Nagar (Uttar Pradesh) | Kaushambi (Uttar Pradesh) | Varanasi (Uttar Pradesh) | Pratapgarh (Uttar Pradesh) | Gonda (Uttar Pradesh) | Jaunpur (Uttar Pradesh) | Bara Banki (Uttar Pradesh) | Unnao (Uttar Pradesh) | Fatehpur (Uttar Pradesh) | Rae Bareli (Uttar Pradesh) | Amethi (Uttar Pradesh) | Ghazipur (Uttar Pradesh),https://www.geonames.org/1269583/ | https://www.geonames.org/6994036/ | https://www.geonames.org/6994083/ | https://www.geonames.org/6995285/ | https://www.geonames.org/7002192/ | https://www.geonames.org/7003845/ | https://www.geonames.org/10435059/ | https://www.geonames.org/10452830/ | https://www.geonames.org/10456087/ | https://www.geonames.org/10468191/ | https://www.geonames.org/10475908/ | https://www.geonames.org/10477491/ | https://www.geonames.org/10479452/ | https://www.geonames.org/10479598/ | https://www.geonames.org/10481456/ | https://www.geonames.org/10488288/ | https://www.geonames.org/10490363/ | https://www.geonames.org/10491916/ | https://www.geonames.org/10510366/ | https://www.geonames.org/10539678/ | https://www.geonames.org/10543631/ | https://www.geonames.org/10546655/ | https://www.geonames.org/10555577/ | https://www.geonames.org/10555737/ | https://www.geonames.org/10559297/ | https://www.geonames.org/10565952/ | https://www.geonames.org/10569185/ | https://www.geonames.org/10570475/ | https://www.geonames.org/10573702/ | https://www.geonames.org/10578378/ | https://www.geonames.org/10581108/ | https://www.geonames.org/10597794/ | https://www.geonames.org/10610335/ | https://www.geonames.org/10619635/ | https://www.geonames.org/10623902/ | https://www.geonames.org/10626078/ | https://www.geonames.org/10751930/ | https://www.geonames.org/10764382/ | https://www.geonames.org/10825830/ | https://www.geonames.org/10830323/ | https://www.geonames.org/10832635/ | https://www.geonames.org/10832669/ | https://www.geonames.org/11061617/ | https://www.geonames.org/11061791/ | https://www.geonames.org/11062624/ | https://www.geonames.org/13428104/ | https://www.geonames.org/13430066/ | https://www.geonames.org/13430083/ | https://www.geonames.org/10439333/ | https://www.geonames.org/10605661/
+North 3,JAGDISHPUR,needs_review,,,Needs review,Unnao (Uttar Pradesh) | Amethi (Uttar Pradesh),https://www.geonames.org/1269574/ | https://upnrhm.gov.in/assets/site-files/asha/Compiled_Amethi.pdf
+North 3,JAGNER,matched,Agra,Uttar Pradesh,Lookup,Agra (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,JAITPUR KALAN,matched,Agra,Uttar Pradesh,Lookup,Agra (Uttar Pradesh),https://agra.nic.in/subdivision-blocks/
+North 3,JALALABAD-UP,needs_review,,,Needs review,Bijnor (Uttar Pradesh) | Shahjahanpur (Uttar Pradesh) | Muzaffarnagar (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,JALALPUR,matched,Ambedkar Nagar,Uttar Pradesh,Lookup,Ambedkar Nagar (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,JALAUN,matched,Jalaun,Uttar Pradesh,Lookup,Jalaun (Uttar Pradesh),https://www.geonames.org/1269423/
+North 3,JARWAL,matched,Bahraich,Uttar Pradesh,Lookup,Bahraich (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,JAUNPUR,matched,Jaunpur,Uttar Pradesh,Lookup,Jaunpur (Uttar Pradesh),https://www.geonames.org/1269136/
+North 3,JHANSI,matched,Jhansi,Uttar Pradesh,Lookup,Jhansi (Uttar Pradesh),https://www.geonames.org/1269007/
+North 3,JHINJHAK,matched,Kanpur Dehat,Uttar Pradesh,Lookup,Kanpur Dehat (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,KAGAROL,matched,Agra,Uttar Pradesh,Lookup,Agra (Uttar Pradesh),https://www.geonames.org/1268649/
+North 3,KAISERGANJ,matched,Bahraich,Uttar Pradesh,Lookup,Bahraich (Uttar Pradesh),https://www.geonames.org/12683157/
+North 3,KAMPIL,matched,Farrukhabad,Uttar Pradesh,Lookup,Farrukhabad (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,KANNAUJ,matched,Kannauj,Uttar Pradesh,Lookup,Kannauj (Uttar Pradesh),https://www.geonames.org/7902634/
+North 3,KANPUR,matched,Kanpur Nagar,Uttar Pradesh,Lookup,Kanpur Nagar (Uttar Pradesh),https://www.geonames.org/1267997/
+North 3,KAPTANGANJ,matched,Kushinagar,Uttar Pradesh,Lookup,Kushinagar (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,KARCHANA,matched,Allahabad,Uttar Pradesh,Lookup,Allahabad (Uttar Pradesh),https://www.geonames.org/1267806/
+North 3,KARHAL,matched,Mainpuri,Uttar Pradesh,Lookup,Mainpuri (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,KARVI,matched,Chitrakoot,Uttar Pradesh,Lookup,Chitrakoot (Uttar Pradesh),https://www.geonames.org/12684675/ | https://www.geonames.org/1267629/
+North 3,KASGANJ,matched,Kanshiram Nagar,Uttar Pradesh,Lookup,Kanshiram Nagar (Uttar Pradesh),https://www.geonames.org/9747992/
+North 3,KASIA,needs_review,,,Needs review,Sant Kabir Nagar (Uttar Pradesh) | Kushinagar (Uttar Pradesh),https://www.geonames.org/1267575/ | https://www.geonames.org/10655180/ | https://www.geonames.org/10671569/
+North 3,KATRA (UP),needs_review,,,Needs review,Shahjahanpur (Uttar Pradesh) | Gonda (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,KAYAMGANJ,matched,Farrukhabad,Uttar Pradesh,Lookup,Farrukhabad (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,KHAGA,matched,Fatehpur,Uttar Pradesh,Lookup,Fatehpur (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,KHAIR,matched,Aligarh,Uttar Pradesh,Lookup,Aligarh (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,KHALILABAD,matched,Sant Kabir Nagar,Uttar Pradesh,Lookup,Sant Kabir Nagar (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,KHANDOLI,matched,Agra,Uttar Pradesh,Lookup,Agra (Uttar Pradesh),https://saras.cbse.gov.in/SARAS/AffiliatedList/AfflicationDetails/2132391
+North 3,KHUTAR,matched,Shahjahanpur,Uttar Pradesh,Lookup,Shahjahanpur (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,KIRAOLI,matched,Agra,Uttar Pradesh,Lookup,Agra (Uttar Pradesh),https://www.geonames.org/1266510/ | https://www.geonames.org/12682937/
+North 3,KONCH,matched,Jalaun,Uttar Pradesh,Lookup,Jalaun (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,KORAON,matched,Allahabad,Uttar Pradesh,Lookup,Allahabad (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,KOSI KALAN,matched,Mathura,Uttar Pradesh,Lookup,Mathura (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,KULPAHAR,matched,Mahoba,Uttar Pradesh,Lookup,Mahoba (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,KUNDA,matched,Pratapgarh,Uttar Pradesh,Lookup,Pratapgarh (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,KURAWLI,matched,Mainpuri,Uttar Pradesh,Lookup,Mainpuri (Uttar Pradesh),https://www.geonames.org/9072833/
+North 3,KURSI,needs_review,,,Needs review,Sitapur (Uttar Pradesh) | Auraiya (Uttar Pradesh) | Kanpur Dehat (Uttar Pradesh) | Bara Banki (Uttar Pradesh) | Mau (Uttar Pradesh),https://www.geonames.org/1265482/ | https://www.geonames.org/7004050/ | https://www.geonames.org/10580046/ | https://www.geonames.org/10668562/ | https://www.geonames.org/7004205/
+North 3,LAHARPUR,matched,Sitapur,Uttar Pradesh,Lookup,Sitapur (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,LAKHIMPUR,matched,Kheri,Uttar Pradesh,Lookup,Kheri (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,LALGANJ,matched,Rae Bareli,Uttar Pradesh,Lookup,Rae Bareli (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,LALGANJ (AZAMGARH),matched,Azamgarh,Uttar Pradesh,Lookup,Azamgarh (Uttar Pradesh),https://www.geonames.org/12501265/ | https://www.geonames.org/12683202/
+North 3,LALGANJ (RAI BAREILLY),matched,Rae Bareli,Uttar Pradesh,Lookup,Rae Bareli (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,LALITPUR,matched,Lalitpur,Uttar Pradesh,Lookup,Lalitpur (Uttar Pradesh),https://www.geonames.org/1265158/
+North 3,LUCKNOW,matched,Lucknow,Uttar Pradesh,Lookup,Lucknow (Uttar Pradesh),https://www.geonames.org/1264734/
+North 3,MACHALISAHAR,matched,Jaunpur,Uttar Pradesh,Lookup,Jaunpur (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,MADHOGANJ,matched,Hardoi,Uttar Pradesh,Lookup,Hardoi (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,MADHOGARH,matched,Jalaun,Uttar Pradesh,Lookup,Jalaun (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,MAHAMUDABAD,matched,Sitapur,Uttar Pradesh,Lookup,Sitapur (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,MAHARAJGANJ,matched,Mahrajganj,Uttar Pradesh,Lookup,Mahrajganj (Uttar Pradesh),https://www.geonames.org/7729749/
+North 3,MAHARAJGANJ (RAI BAREILLY),matched,Rae Bareli,Uttar Pradesh,Lookup,Rae Bareli (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,MAHIRPURWA,matched,Bahraich,Uttar Pradesh,Lookup,Bahraich (Uttar Pradesh),https://www.geonames.org/1263058/
+North 3,MAHOBA,matched,Mahoba,Uttar Pradesh,Lookup,Mahoba (Uttar Pradesh),https://www.geonames.org/9072787/
+North 3,MAHOLI,matched,Sitapur,Uttar Pradesh,Lookup,Sitapur (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,MAHRONI,matched,Lalitpur,Uttar Pradesh,Lookup,Lalitpur (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,MAIGALGANJ,matched,Kheri,Uttar Pradesh,Lookup,Kheri (Uttar Pradesh),https://cwc.gov.in/sites/default/files/sopapril2025.pdf
+North 3,MAINPURI,matched,Mainpuri,Uttar Pradesh,Lookup,Mainpuri (Uttar Pradesh),https://www.geonames.org/1264293/
+North 3,MALIHABAD,matched,Lucknow,Uttar Pradesh,Lookup,Lucknow (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,MANDURI,needs_review,,,Needs review,Azamgarh (Uttar Pradesh) | Rae Bareli (Uttar Pradesh) | Allahabad (Uttar Pradesh),https://www.geonames.org/10555767/ | https://www.geonames.org/10661674/ | https://www.geonames.org/10679591/
+North 3,MANJHANPUR,matched,Kaushambi,Uttar Pradesh,Lookup,Kaushambi (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,MANKAPUR,matched,Gonda,Uttar Pradesh,Lookup,Gonda (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,MATHURA,matched,Mathura,Uttar Pradesh,Lookup,Mathura (Uttar Pradesh),https://www.geonames.org/1263366/
+North 3,MATI,needs_review,,,Needs review,Aligarh (Uttar Pradesh) | Lucknow (Uttar Pradesh) | Kanpur Dehat (Uttar Pradesh) | Bara Banki (Uttar Pradesh),https://www.geonames.org/10434988/ | https://www.geonames.org/10553446/ | https://www.geonames.org/10566848/ | https://kanpurdehat.nic.in/divisions/district-administration/
+North 3,MAU,matched,Mau,Uttar Pradesh,Lookup,Mau (Uttar Pradesh),https://www.geonames.org/7729750/
+North 3,MAUDAHA,matched,Hamirpur,Uttar Pradesh,Lookup,Hamirpur (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,MAURANIPUR,matched,Jhansi,Uttar Pradesh,Lookup,Jhansi (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,MEERGANJ,matched,Bareilly,Uttar Pradesh,Lookup,Bareilly (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,MEHDAWAL,matched,Sant Kabir Nagar,Uttar Pradesh,Lookup,Sant Kabir Nagar (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,MEJA,matched,Allahabad,Uttar Pradesh,Lookup,Allahabad (Uttar Pradesh),https://www.geonames.org/12683129/
+North 3,MIRZAPUR,matched,Mirzapur,Uttar Pradesh,Lookup,Mirzapur (Uttar Pradesh),https://www.geonames.org/1262997/
+North 3,MISRIKH,matched,Sitapur,Uttar Pradesh,Lookup,Sitapur (Uttar Pradesh),https://www.geonames.org/1262988/ | https://www.geonames.org/12682973/
+North 3,MOHANLALGANJ,matched,Lucknow,Uttar Pradesh,Lookup,Lucknow (Uttar Pradesh),https://www.geonames.org/12683048/
+North 3,MOOSANAGAR,matched,Kanpur Dehat,Uttar Pradesh,Lookup,Kanpur Dehat (Uttar Pradesh),https://www.geonames.org/postalcode-search.html?country=IN&postalcode=209208
+North 3,MOTH,matched,Jhansi,Uttar Pradesh,Lookup,Jhansi (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,MUGHALSARAI,matched,Chandauli,Uttar Pradesh,Lookup,Chandauli (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,MURATGANJ,matched,Kaushambi,Uttar Pradesh,Lookup,Kaushambi (Uttar Pradesh),https://www.geonames.org/10667110/
+North 3,NANPARA,matched,Bahraich,Uttar Pradesh,Lookup,Bahraich (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,NARAYANPUR(UP),needs_review,,,Needs review,Moradabad (Uttar Pradesh) | Sitapur (Uttar Pradesh) | Aligarh (Uttar Pradesh) | Bulandshahr (Uttar Pradesh) | Rampur (Uttar Pradesh) | Hardoi (Uttar Pradesh) | Balrampur (Uttar Pradesh) | Mahamaya Nagar (Uttar Pradesh) | Shahjahanpur (Uttar Pradesh) | Farrukhabad (Uttar Pradesh) | Jyotiba Phule Nagar (Uttar Pradesh) | Basti (Uttar Pradesh) | Gorakhpur (Uttar Pradesh) | Azamgarh (Uttar Pradesh) | Ballia (Uttar Pradesh) | Siddharthnagar (Uttar Pradesh) | Varanasi (Uttar Pradesh) | Gonda (Uttar Pradesh) | Jaunpur (Uttar Pradesh) | Mahrajganj (Uttar Pradesh) | Mirzapur (Uttar Pradesh) | Kushinagar (Uttar Pradesh) | Deoria (Uttar Pradesh) | Mau (Uttar Pradesh) | Saharanpur (Uttar Pradesh) | Etawah (Uttar Pradesh) | Chandauli (Uttar Pradesh) | Ghazipur (Uttar Pradesh),https://www.geonames.org/1261867/ | https://www.geonames.org/10194372/ | https://www.geonames.org/10437947/ | https://www.geonames.org/10440143/ | https://www.geonames.org/10467298/ | https://www.geonames.org/10472018/ | https://www.geonames.org/10472027/ | https://www.geonames.org/10473964/ | https://www.geonames.org/10474310/ | https://www.geonames.org/10481651/ | https://www.geonames.org/10497408/ | https://www.geonames.org/10498486/ | https://www.geonames.org/10502087/ | https://www.geonames.org/10503198/ | https://www.geonames.org/10503370/ | https://www.geonames.org/10504926/ | https://www.geonames.org/10547167/ | https://www.geonames.org/10554626/ | https://www.geonames.org/10554748/ | https://www.geonames.org/10554832/ | https://www.geonames.org/10555057/ | https://www.geonames.org/10561850/ | https://www.geonames.org/10572197/ | https://www.geonames.org/10575666/ | https://www.geonames.org/10575792/ | https://www.geonames.org/10601687/ | https://www.geonames.org/10604851/ | https://www.geonames.org/10614314/ | https://www.geonames.org/10619209/ | https://www.geonames.org/10619636/ | https://www.geonames.org/10625644/ | https://www.geonames.org/10625755/ | https://www.geonames.org/10656850/ | https://www.geonames.org/10663368/ | https://www.geonames.org/10666115/ | https://www.geonames.org/10666214/ | https://www.geonames.org/10666249/ | https://www.geonames.org/10666440/ | https://www.geonames.org/10667203/ | https://www.geonames.org/10667660/ | https://www.geonames.org/10668646/ | https://www.geonames.org/10670942/ | https://www.geonames.org/10671232/ | https://www.geonames.org/10671554/ | https://www.geonames.org/10671959/ | https://www.geonames.org/10672054/ | https://www.geonames.org/10672176/ | https://www.geonames.org/10759195/ | https://www.geonames.org/10817094/ | https://www.geonames.org/10817192/ | https://www.geonames.org/10817370/ | https://www.geonames.org/10817686/ | https://www.geonames.org/10934793/ | https://www.geonames.org/10505003/ | https://www.geonames.org/10555096/ | https://www.geonames.org/10751471/
+North 3,NARWAL,matched,Kanpur Nagar,Uttar Pradesh,Lookup,Kanpur Nagar (Uttar Pradesh),https://www.geonames.org/12682784/
+North 3,NAUGARH,needs_review,,,Needs review,Siddharthnagar (Uttar Pradesh) | Chandauli (Uttar Pradesh),https://www.geonames.org/12683168/ | https://www.geonames.org/12684685/
+North 3,NAUJHIL,matched,Mathura,Uttar Pradesh,Lookup,Mathura (Uttar Pradesh),https://uppolice.gov.in/site/writereaddata/siteContent/CONTACT%20US/202309121508159960PS_LIST.pdf
+North 3,NAUTANWA,matched,Mahrajganj,Uttar Pradesh,Lookup,Mahrajganj (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,NAWABGANJ (BAREILLY ),matched,Bareilly,Uttar Pradesh,Lookup,Bareilly (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,NAWABGANJ (UNNAO),matched,Unnao,Uttar Pradesh,Lookup,Unnao (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,NIGOHA,matched,Lucknow,Uttar Pradesh,Lookup,Lucknow (Uttar Pradesh),https://lucknow.nic.in/police-station-count/
+North 3,ORAI,matched,Jalaun,Uttar Pradesh,Lookup,Jalaun (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,PADRAUNA,matched,Kushinagar,Uttar Pradesh,Lookup,Kushinagar (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,PALIA KALAN,matched,Kheri,Uttar Pradesh,Lookup,Kheri (Uttar Pradesh),https://www.geonames.org/1260713/
+North 3,PANWARI,needs_review,,,Needs review,Sambhal (Uttar Pradesh) | Meerut (Uttar Pradesh) | Shahjahanpur (Uttar Pradesh) | Firozabad (Uttar Pradesh) | Chitrakoot (Uttar Pradesh) | Mahoba (Uttar Pradesh) | Agra (Uttar Pradesh) | Allahabad (Uttar Pradesh),https://www.geonames.org/1260425/ | https://www.geonames.org/8432866/ | https://www.geonames.org/10226829/ | https://www.geonames.org/10451117/ | https://www.geonames.org/10465113/ | https://www.geonames.org/10579632/ | https://www.geonames.org/10584585/ | https://www.geonames.org/10585789/ | https://www.geonames.org/10686339/
+North 3,PATIYALI,matched,Kanshiram Nagar,Uttar Pradesh,Lookup,Kanshiram Nagar (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,PATTI(UP),matched,Pratapgarh,Uttar Pradesh,Lookup,Pratapgarh (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,PAYAGPUR,matched,Bahraich,Uttar Pradesh,Lookup,Bahraich (Uttar Pradesh),https://www.geonames.org/12683289/
+North 3,PHULPUR,needs_review,,,Needs review,Azamgarh (Uttar Pradesh) | Allahabad (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,PILIBHIT,matched,Pilibhit,Uttar Pradesh,Lookup,Pilibhit (Uttar Pradesh),https://www.geonames.org/1259687/
+North 3,PINDRA,matched,Varanasi,Uttar Pradesh,Lookup,Varanasi (Uttar Pradesh),https://www.geonames.org/12683236/
+North 3,PIPIGANJ,matched,Gorakhpur,Uttar Pradesh,Lookup,Gorakhpur (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,PRATAPGARH(UP),matched,Pratapgarh,Uttar Pradesh,Lookup,Pratapgarh (Uttar Pradesh),https://www.geonames.org/1259339/
+North 3,PRAYAGRAJ,matched,Allahabad,Uttar Pradesh,Lookup,Allahabad (Uttar Pradesh),https://www.geonames.org/1278995/
+North 3,PUKHRAYAN,matched,Kanpur Dehat,Uttar Pradesh,Lookup,Kanpur Dehat (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,PURANPUR,matched,Pilibhit,Uttar Pradesh,Lookup,Pilibhit (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,PURWA,matched,Unnao,Uttar Pradesh,Lookup,Unnao (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,RAEBARELI,matched,Rae Bareli,Uttar Pradesh,Lookup,Rae Bareli (Uttar Pradesh),https://www.geonames.org/1259065/
+North 3,RAHIMABAD,needs_review,,,Needs review,Moradabad (Uttar Pradesh) | Sitapur (Uttar Pradesh) | Gorakhpur (Uttar Pradesh) | Lucknow (Uttar Pradesh) | Faizabad (Uttar Pradesh) | Bara Banki (Uttar Pradesh) | Allahabad (Uttar Pradesh),https://www.geonames.org/10553425/ | https://www.geonames.org/10572376/ | https://www.geonames.org/10589343/ | https://www.geonames.org/10679776/ | https://www.geonames.org/10723777/ | https://www.geonames.org/10920499/ | https://www.geonames.org/10659109/
+North 3,RAM SANEHI GHAT,matched,Bara Banki,Uttar Pradesh,Lookup,Bara Banki (Uttar Pradesh),https://www.geonames.org/12683136/
+North 3,RAMNAGAR (UP),needs_review,,,Needs review,Varanasi (Uttar Pradesh) | Bara Banki (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,RASOOLABAD,needs_review,,,Needs review,Kanpur Dehat (Uttar Pradesh) | Unnao (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,RATH,matched,Hamirpur,Uttar Pradesh,Lookup,Hamirpur (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,RAYA,matched,Mathura,Uttar Pradesh,Lookup,Mathura (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,RENUKUT,matched,Sonbhadra,Uttar Pradesh,Lookup,Sonbhadra (Uttar Pradesh),https://www.geonames.org/1258207/
+North 3,RISIYA BAZAR,matched,Bahraich,Uttar Pradesh,Lookup,Bahraich (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,ROBERTASGANJ,matched,Sonbhadra,Uttar Pradesh,Lookup,Sonbhadra (Uttar Pradesh),https://www.geonames.org/1258111/ | https://www.geonames.org/12683248/
+North 3,RUDAULI,matched,Faizabad,Uttar Pradesh,Lookup,Faizabad (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,RUNKATA,matched,Agra,Uttar Pradesh,Lookup,Agra (Uttar Pradesh),https://www.geonames.org/postalcode-search.html?country=IN&postalcode=282007
+North 3,RUPAHIDIHA,matched,Bahraich,Uttar Pradesh,Lookup,Bahraich (Uttar Pradesh),https://www.geonames.org/postalcode-search.html?country=IN&postalcode=271881
+North 3,SADABAD,matched,Mahamaya Nagar,Uttar Pradesh,Lookup,Mahamaya Nagar (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,SAFDARGANJ,needs_review,,,Needs review,Sitapur (Uttar Pradesh) | Bara Banki (Uttar Pradesh),https://www.geonames.org/10568892/ | https://www.geonames.org/10711996/
+North 3,SAHASWAN,matched,Budaun,Uttar Pradesh,Lookup,Budaun (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,SAIDPUR,needs_review,,,Needs review,Budaun (Uttar Pradesh) | Ghazipur (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,SAIYAN,matched,Agra,Uttar Pradesh,Lookup,Agra (Uttar Pradesh),https://www.geonames.org/10472718/
+North 3,SALEMGARH,needs_review,,,Needs review,Bulandshahr (Uttar Pradesh) | Kushinagar (Uttar Pradesh),https://www.geonames.org/10439564/ | https://www.geonames.org/10820850/
+North 3,SALEMPUR,matched,Deoria,Uttar Pradesh,Lookup,Deoria (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,SALON,matched,Rae Bareli,Uttar Pradesh,Lookup,Rae Bareli (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,SANDILA,matched,Hardoi,Uttar Pradesh,Lookup,Hardoi (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,SAWAJHPUR,matched,Hardoi,Uttar Pradesh,Lookup,Hardoi (Uttar Pradesh),https://www.geonames.org/12683001/
+North 3,SEMRAUTA,matched,Amethi,Uttar Pradesh,Lookup,Amethi (Uttar Pradesh),https://amethi.nic.in/ac-178-part-list/
+North 3,SHAHBAD (HARDOI),matched,Hardoi,Uttar Pradesh,Lookup,Hardoi (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,SHAHGANJ,matched,Jaunpur,Uttar Pradesh,Lookup,Jaunpur (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,SHAHJAHANPUR-UP,matched,Shahjahanpur,Uttar Pradesh,Lookup,Shahjahanpur (Uttar Pradesh),https://www.geonames.org/12682964/ | https://www.geonames.org/1256728/ | https://www.geonames.org/1256729/
+North 3,SHAMSHABAD,needs_review,,,Needs review,Farrukhabad (Uttar Pradesh) | Agra (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,SHANKARGARH,matched,Allahabad,Uttar Pradesh,Lookup,Allahabad (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,SHIKOHABAD,matched,Firozabad,Uttar Pradesh,Lookup,Firozabad (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,SHIVRAJPUR,matched,Kanpur Nagar,Uttar Pradesh,Lookup,Kanpur Nagar (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,SIDHAULI,matched,Sitapur,Uttar Pradesh,Lookup,Sitapur (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,SIDHOUR,matched,Bara Banki,Uttar Pradesh,Lookup,Bara Banki (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,SIKANDARA,matched,Kanpur Dehat,Uttar Pradesh,Lookup,Kanpur Dehat (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,SIKANDRA RAO,matched,Mahamaya Nagar,Uttar Pradesh,Lookup,Mahamaya Nagar (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,SIRATHU,matched,Kaushambi,Uttar Pradesh,Lookup,Kaushambi (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,SIRAULI GAUSPUR,matched,Bara Banki,Uttar Pradesh,Lookup,Bara Banki (Uttar Pradesh),https://www.geonames.org/12683135/
+North 3,SISWA BAZAR,matched,Mahrajganj,Uttar Pradesh,Lookup,Mahrajganj (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,SITAPUR-UP,matched,Sitapur,Uttar Pradesh,Lookup,Sitapur (Uttar Pradesh),https://www.geonames.org/1255971/
+North 3,SULTANPUR,matched,Sultanpur,Uttar Pradesh,Lookup,Sultanpur (Uttar Pradesh),https://www.geonames.org/1255497/
+North 3,TAMBOUR,matched,Sitapur,Uttar Pradesh,Lookup,Sitapur (Uttar Pradesh),https://www.geonames.org/postalcode-search.html?country=IN&postalcode=261208
+North 3,TAMKUHIRAJ,matched,Kushinagar,Uttar Pradesh,Lookup,Kushinagar (Uttar Pradesh),https://www.geonames.org/12683191/
+North 3,TIKAIT GANJ,matched,Bara Banki,Uttar Pradesh,Lookup,Bara Banki (Uttar Pradesh),https://www.geonames.org/10723787/
+North 3,TILOI,matched,Amethi,Uttar Pradesh,Lookup,Amethi (Uttar Pradesh),https://www.geonames.org/12683052/
+North 3,TULSIPUR,matched,Balrampur,Uttar Pradesh,Lookup,Balrampur (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,TUNDLA,matched,Firozabad,Uttar Pradesh,Lookup,Firozabad (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,UNCHAHAR,matched,Rae Bareli,Uttar Pradesh,Lookup,Rae Bareli (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,UNNAO,matched,Unnao,Uttar Pradesh,Lookup,Unnao (Uttar Pradesh),https://www.geonames.org/1253748/
+North 3,UTRAULA,matched,Balrampur,Uttar Pradesh,Lookup,Balrampur (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 3,VARANASI,matched,Varanasi,Uttar Pradesh,Lookup,Varanasi (Uttar Pradesh),https://www.geonames.org/1253407/
+North 3,ZAIDPUR,matched,Bara Banki,Uttar Pradesh,Lookup,Bara Banki (Uttar Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=33
+North 4,ADAMPUR (HR),matched,Hisar,Haryana,Lookup,Hisar (Haryana),https://www.geonames.org/7646705/ | https://www.geonames.org/12682426/
+North 4,ALAMPUR(HP),matched,Kangra,Himachal Pradesh,Lookup,Kangra (Himachal Pradesh),https://www.geonames.org/12685309/
+North 4,ALEWA,matched,Jind,Haryana,Lookup,Jind (Haryana),https://www.geonames.org/12682444/
+North 4,AMB,matched,Una,Himachal Pradesh,Lookup,Una (Himachal Pradesh),https://hpuna.nic.in/public-utility/np-amb/
+North 4,AMBALA,matched,Ambala,Haryana,Lookup,Ambala (Haryana),https://www.geonames.org/1278861/
+North 4,ANNIE,matched,Kullu,Himachal Pradesh,Lookup,Kullu (Himachal Pradesh),https://www.geonames.org/12682525/
+North 4,ARKI,matched,Solan,Himachal Pradesh,Lookup,Solan (Himachal Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=14
+North 4,ASSANDH,matched,Karnal,Haryana,Lookup,Karnal (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 4,BABARPUR,matched,Panipat,Haryana,Lookup,Panipat (Haryana),https://www.geonames.org/1442241/ | https://www.geonames.org/1442254/
+North 4,BADDI,matched,Solan,Himachal Pradesh,Lookup,Solan (Himachal Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=14
+North 4,BAHADURGARH,matched,Jhajjar,Haryana,Lookup,Jhajjar (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 4,BAIJNATH,matched,Kangra,Himachal Pradesh,Lookup,Kangra (Himachal Pradesh),https://www.geonames.org/12682519/
+North 4,BANGANA,matched,Una,Himachal Pradesh,Lookup,Una (Himachal Pradesh),https://www.geonames.org/12684309/
+North 4,BAPOLI,matched,Panipat,Haryana,Lookup,Panipat (Haryana),https://www.geonames.org/12682489/
+North 4,BARARA,matched,Ambala,Haryana,Lookup,Ambala (Haryana),https://www.geonames.org/10152760/ | https://www.geonames.org/12682396/
+North 4,BARSAR,matched,Hamirpur,Himachal Pradesh,Lookup,Hamirpur (Himachal Pradesh),https://www.geonames.org/12685288/
+North 4,BERI,matched,Jhajjar,Haryana,Lookup,Jhajjar (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 4,BHARARI GHAT,matched,Solan,Himachal Pradesh,Lookup,Solan (Himachal Pradesh),https://www.geonames.org/postalcode-search.html?country=IN&postalcode=173235
+North 4,BHIWANI,matched,Bhiwani,Haryana,Lookup,Bhiwani (Haryana),https://www.geonames.org/1275900/
+North 4,BHORANJ,matched,Hamirpur,Himachal Pradesh,Lookup,Hamirpur (Himachal Pradesh),https://www.geonames.org/12684306/
+North 4,BILASPUR (HR),matched,Yamunanagar,Haryana,Lookup,Yamunanagar (Haryana),https://www.geonames.org/1275633/ | https://www.geonames.org/12682398/
+North 4,BILASPUR-HP,matched,Bilaspur,Himachal Pradesh,Lookup,Bilaspur (Himachal Pradesh),https://www.geonames.org/1275638/
+North 4,CHARKHI DADRI,matched,Bhiwani,Haryana,Lookup,Bhiwani (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 4,CHEEKA,matched,Kaithal,Haryana,Lookup,Kaithal (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 4,CHHACHHARAULI,matched,Yamunanagar,Haryana,Lookup,Yamunanagar (Haryana),https://www.geonames.org/1274380/ | https://www.geonames.org/12682399/
+North 4,DADRI TOE,matched,Jhajjar,Haryana,Lookup,Jhajjar (Haryana),https://www.geonames.org/postalcode-search.html?country=IN&postalcode=124103
+North 4,DARLAGHAT,matched,Solan,Himachal Pradesh,Lookup,Solan (Himachal Pradesh),https://www.geonames.org/12682541/
+North 4,DEHRA GOPIPUR,matched,Kangra,Himachal Pradesh,Lookup,Kangra (Himachal Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=14
+North 4,DHAND,needs_review,,,Needs review,Chamba (Himachal Pradesh) | Kaithal (Haryana) | Fatehabad (Haryana),https://www.geonames.org/9976985/ | https://www.geonames.org/10715608/ | https://kaithal.gov.in/about-district/
+North 4,ELLENABAD,matched,Sirsa,Haryana,Lookup,Sirsa (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 4,FARMANA,matched,Sonipat,Haryana,Lookup,Sonipat (Haryana),https://www.geonames.org/1271944/
+North 4,FATEHABAD-HR,matched,Fatehabad,Haryana,Lookup,Fatehabad (Haryana),https://www.geonames.org/9159091/
+North 4,GAGGAL,matched,Kangra,Himachal Pradesh,Lookup,Kangra (Himachal Pradesh),https://www.geonames.org/postalcode-search.html?country=IN&postalcode=176209
+North 4,GAGRET,matched,Una,Himachal Pradesh,Lookup,Una (Himachal Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=14
+North 4,GANNAUR,matched,Sonipat,Haryana,Lookup,Sonipat (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 4,GHARAUNDA,matched,Karnal,Haryana,Lookup,Karnal (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 4,GHUMARWAIN,matched,Bilaspur,Himachal Pradesh,Lookup,Bilaspur (Himachal Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=14
+North 4,GOHANA,matched,Sonipat,Haryana,Lookup,Sonipat (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 4,GUMMA,matched,Shimla,Himachal Pradesh,Lookup,Shimla (Himachal Pradesh),https://www.geonames.org/8740056/
+North 4,HAMIRPUR,matched,Hamirpur,Himachal Pradesh,Lookup,Hamirpur (Himachal Pradesh),https://www.geonames.org/1270456/
+North 4,HANSI,matched,Hisar,Haryana,Lookup,Hisar (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 4,HISSAR,matched,Hisar,Haryana,Lookup,Hisar (Haryana),https://www.geonames.org/1270023/
+North 4,INDRI,matched,Karnal,Haryana,Lookup,Karnal (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 4,ISMAILABAD,matched,Kurukshetra,Haryana,Lookup,Kurukshetra (Haryana),https://www.geonames.org/1269663/
+North 4,ISRANA,matched,Panipat,Haryana,Lookup,Panipat (Haryana),https://www.geonames.org/12682442/
+North 4,JAISINGHPUR,matched,Kangra,Himachal Pradesh,Lookup,Kangra (Himachal Pradesh),https://www.geonames.org/12685308/
+North 4,JASWAN,matched,Kangra,Himachal Pradesh,Lookup,Kangra (Himachal Pradesh),https://www.geonames.org/12685306/
+North 4,JAWALAMUKHI,matched,Kangra,Himachal Pradesh,Lookup,Kangra (Himachal Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=14
+North 4,JHAJJAR,matched,Jhajjar,Haryana,Lookup,Jhajjar (Haryana),https://www.geonames.org/9747981/
+North 4,JHANDUTTA,matched,Bilaspur,Himachal Pradesh,Lookup,Bilaspur (Himachal Pradesh),https://www.geonames.org/12685279/
+North 4,JIND,matched,Jind,Haryana,Lookup,Jind (Haryana),https://www.geonames.org/1268908/
+North 4,JOGINDER NAGAR,matched,Mandi,Himachal Pradesh,Lookup,Mandi (Himachal Pradesh),https://www.geonames.org/1268849/
+North 4,JULANA,matched,Jind,Haryana,Lookup,Jind (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 4,JUNGA,matched,Shimla,Himachal Pradesh,Lookup,Shimla (Himachal Pradesh),https://www.geonames.org/12685350/
+North 4,KAITHAL,matched,Kaithal,Haryana,Lookup,Kaithal (Haryana),https://www.geonames.org/9747983/
+North 4,KALA AMB,needs_review,,,Needs review,Sirmaur (Himachal Pradesh) | Mandi (Himachal Pradesh),https://www.geonames.org/1268520/ | https://www.geonames.org/10168985/ | https://www.geonames.org/10726580/
+North 4,KALANAUR (HR),matched,Rohtak,Haryana,Lookup,Rohtak (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 4,KALANAUR (YAMUNANAGAR),matched,Yamunanagar,Haryana,Lookup,Yamunanagar (Haryana),https://www.geonames.org/10166512/
+North 4,KALAYAT,matched,Kaithal,Haryana,Lookup,Kaithal (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 4,KARNAL,matched,Karnal,Haryana,Lookup,Karnal (Haryana),https://www.geonames.org/1267709/
+North 4,KARSOG,matched,Mandi,Himachal Pradesh,Lookup,Mandi (Himachal Pradesh),https://www.geonames.org/12685335/
+North 4,KATHURA,matched,Sonipat,Haryana,Lookup,Sonipat (Haryana),https://www.geonames.org/postalcode-search.html?country=IN&postalcode=131301
+North 4,KHARKAUDA,matched,Sonipat,Haryana,Lookup,Sonipat (Haryana),https://www.geonames.org/1266891/
+North 4,KOTKHAI,matched,Shimla,Himachal Pradesh,Lookup,Shimla (Himachal Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=14
+North 4,KULLU,matched,Kullu,Himachal Pradesh,Lookup,Kullu (Himachal Pradesh),https://www.geonames.org/12682517/ | https://www.geonames.org/1265709/ | https://www.geonames.org/1265710/
+North 4,KUNDLI,matched,Sonipat,Haryana,Lookup,Sonipat (Haryana),https://www.geonames.org/10261433/
+North 4,KUNIHAR,matched,Solan,Himachal Pradesh,Lookup,Solan (Himachal Pradesh),https://www.geonames.org/12682572/
+North 4,KURUKSHETRA,matched,Kurukshetra,Haryana,Lookup,Kurukshetra (Haryana),https://www.geonames.org/1265468/
+North 4,LAD BHAROL,matched,Mandi,Himachal Pradesh,Lookup,Mandi (Himachal Pradesh),https://www.geonames.org/12682529/
+North 4,LADWA,matched,Kurukshetra,Haryana,Lookup,Kurukshetra (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 4,LOHARU,matched,Bhiwani,Haryana,Lookup,Bhiwani (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 4,MADLAUDA,needs_review,,,Needs review,Panipat (Haryana) | Hisar (Haryana),https://www.geonames.org/1264535/ | https://www.geonames.org/10697105/
+North 4,MANALI,matched,Kullu,Himachal Pradesh,Lookup,Kullu (Himachal Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=14
+North 4,MANDI,matched,Mandi,Himachal Pradesh,Lookup,Mandi (Himachal Pradesh),https://www.geonames.org/1263863/
+North 4,MANDI DABWALI,matched,Sirsa,Haryana,Lookup,Sirsa (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 4,MATHEDI SHEKAN,matched,Ambala,Haryana,Lookup,Ambala (Haryana),https://ambala.gov.in/banks-2/
+North 4,MATIANA,needs_review,,,Needs review,Sirmaur (Himachal Pradesh) | Shimla (Himachal Pradesh),https://www.geonames.org/10167583/ | https://www.geonames.org/1263354/
+North 4,MEHAM,matched,Rohtak,Haryana,Lookup,Rohtak (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 4,NADAUN,matched,Hamirpur,Himachal Pradesh,Lookup,Hamirpur (Himachal Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=14
+North 4,NAGROTA SURIYA,matched,Kangra,Himachal Pradesh,Lookup,Kangra (Himachal Pradesh),https://www.geonames.org/12685312/
+North 4,NAGROTA-HP,matched,Kangra,Himachal Pradesh,Lookup,Kangra (Himachal Pradesh),https://www.geonames.org/1262162/ | https://www.geonames.org/1266855/
+North 4,NAHAN,matched,Sirmaur,Himachal Pradesh,Lookup,Sirmaur (Himachal Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=14
+North 4,NAINA DEVI,matched,Bilaspur,Himachal Pradesh,Lookup,Bilaspur (Himachal Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=14
+North 4,NALAGARH,matched,Solan,Himachal Pradesh,Lookup,Solan (Himachal Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=14
+North 4,NARAINGARH,matched,Ambala,Haryana,Lookup,Ambala (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 4,NARNAUND,matched,Hisar,Haryana,Lookup,Hisar (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 4,NARWANA,matched,Jind,Haryana,Lookup,Jind (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 4,NERWA,matched,Shimla,Himachal Pradesh,Lookup,Shimla (Himachal Pradesh),https://www.geonames.org/12682534/
+North 4,NILOKHERI,matched,Karnal,Haryana,Lookup,Karnal (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 4,NIRMAND,matched,Kullu,Himachal Pradesh,Lookup,Kullu (Himachal Pradesh),https://www.geonames.org/12682526/
+North 4,PALAMPUR,matched,Kangra,Himachal Pradesh,Lookup,Kangra (Himachal Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=14
+North 4,PANIPAT,matched,Panipat,Haryana,Lookup,Panipat (Haryana),https://www.geonames.org/9747999/
+North 4,PAONTA SAHIB,matched,Sirmaur,Himachal Pradesh,Lookup,Sirmaur (Himachal Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=14
+North 4,PEHOWA,matched,Kurukshetra,Haryana,Lookup,Kurukshetra (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 4,PUNDRI,matched,Kaithal,Haryana,Lookup,Kaithal (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 4,RADAUR,matched,Yamunanagar,Haryana,Lookup,Yamunanagar (Haryana),https://www.geonames.org/1259075/ | https://www.geonames.org/12682497/
+North 4,RAJGARH (HP),matched,Sirmaur,Himachal Pradesh,Lookup,Sirmaur (Himachal Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=14
+North 4,RAJOUND,matched,Kaithal,Haryana,Lookup,Kaithal (Haryana),https://www.geonames.org/12685401/
+North 4,RAMPUR (HP),matched,Shimla,Himachal Pradesh,Lookup,Shimla (Himachal Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=14
+North 4,RASINA,matched,Kaithal,Haryana,Lookup,Kaithal (Haryana),https://www.geonames.org/9890835/
+North 4,RECKONG PEO,matched,Kinnaur,Himachal Pradesh,Lookup,Kinnaur (Himachal Pradesh),https://www.geonames.org/9062391/
+North 4,ROHRU,matched,Shimla,Himachal Pradesh,Lookup,Shimla (Himachal Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=14
+North 4,ROHTAK,matched,Rohtak,Haryana,Lookup,Rohtak (Haryana),https://www.geonames.org/1258077/
+North 4,SAFFIDON,matched,Jind,Haryana,Lookup,Jind (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 4,SALHAWAS,matched,Jhajjar,Haryana,Lookup,Jhajjar (Haryana),https://wcdhry.gov.in/whos-who/
+North 4,SAMALKHA,matched,Panipat,Haryana,Lookup,Panipat (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 4,SAMPLA,matched,Rohtak,Haryana,Lookup,Rohtak (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 4,SARAHAN,matched,Shimla,Himachal Pradesh,Lookup,Shimla (Himachal Pradesh),https://www.geonames.org/1257277/ | https://www.geonames.org/12685343/
+North 4,SARKAGHAT,matched,Mandi,Himachal Pradesh,Lookup,Mandi (Himachal Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=14
+North 4,SHAHABAD,matched,Kurukshetra,Haryana,Lookup,Kurukshetra (Haryana),https://www.geonames.org/1256752/
+North 4,SHAHJADPUR,matched,Ambala,Haryana,Lookup,Ambala (Haryana),https://www.geonames.org/12682474/
+North 4,SHAHPUR (HP),matched,Kangra,Himachal Pradesh,Lookup,Kangra (Himachal Pradesh),https://www.geonames.org/12685302/
+North 4,SHILLAI,matched,Sirmaur,Himachal Pradesh,Lookup,Sirmaur (Himachal Pradesh),https://www.geonames.org/12685359/
+North 4,SHIMLA,matched,Shimla,Himachal Pradesh,Lookup,Shimla (Himachal Pradesh),https://www.geonames.org/1256238/
+North 4,SIRSA,matched,Sirsa,Haryana,Lookup,Sirsa (Haryana),https://www.geonames.org/1256056/
+North 4,SIWANI,matched,Bhiwani,Haryana,Lookup,Bhiwani (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 4,SOLAN,matched,Solan,Himachal Pradesh,Lookup,Solan (Himachal Pradesh),https://www.geonames.org/1255851/
+North 4,SONIPAT,matched,Sonipat,Haryana,Lookup,Sonipat (Haryana),https://www.geonames.org/1255745/
+North 4,SUJANPUR,matched,Hamirpur,Himachal Pradesh,Lookup,Hamirpur (Himachal Pradesh),https://www.geonames.org/1254415/
+North 4,SUNDER NAGAR,matched,Mandi,Himachal Pradesh,Lookup,Mandi (Himachal Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=14
+North 4,THANNA CHAPPER,matched,Yamunanagar,Haryana,Lookup,Yamunanagar (Haryana),https://unnatbharatabhiyan.gov.in/public/uploads/aishe_codes/Standalone%20Institution%20AISHE%20Code.pdf
+North 4,THEOG,matched,Shimla,Himachal Pradesh,Lookup,Shimla (Himachal Pradesh),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=14
+North 4,TOHANA,matched,Fatehabad,Haryana,Lookup,Fatehabad (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 4,TOSHAM,matched,Bhiwani,Haryana,Lookup,Bhiwani (Haryana),https://www.geonames.org/1254214/ | https://www.geonames.org/12685388/
+North 4,UCHANA,matched,Jind,Haryana,Lookup,Jind (Haryana),https://www.ipds.gov.in/Form_IPDS_Res/IPDS_Towns_Details.aspx?Id=13
+North 4,UNA HP,matched,Una,Himachal Pradesh,Lookup,Una (Himachal Pradesh),https://www.geonames.org/7701379/
+North 4,YAMUNANAGAR,matched,Yamunanagar,Haryana,Lookup,Yamunanagar (Haryana),https://www.geonames.org/9748037/
